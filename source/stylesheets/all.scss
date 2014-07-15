@@ -1,0 +1,32 @@
+@import "compass/css3/border-radius";
+
+/*
+ * Header
+ */
+
+$header-circle-dimen: 90px;
+$header-title-font-size: 28px;
+$header-subtitle-font-size: 20px;
+
+.header {
+  background-color: #EEF2F6;
+  padding: 20px 0 20px 0;
+
+  .title {
+    padding-top: $header-circle-dimen / 2 - $header-title-font-size;
+    font-size: $header-title-font-size;
+  }
+
+  .subtitle {
+    padding-top: 12px;
+    font-size: $header-subtitle-font-size;
+  }
+
+  .circular-image {
+    height: $header-circle-dimen;
+    width: $header-circle-dimen;
+    @include border-radius($header-circle-dimen / 2);
+    background-color: #dddddd;
+    float: right;
+  }
+}
