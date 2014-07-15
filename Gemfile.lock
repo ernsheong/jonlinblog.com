@@ -117,5 +117,3 @@ PLATFORMS
 DEPENDENCIES
   middleman (~> 3.3.2)
   middleman-livereload (~> 3.1.0)
-  tzinfo-data
-  wdm (~> 0.1.0)
