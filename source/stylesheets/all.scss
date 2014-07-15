@@ -15,9 +15,14 @@ $header-subtitle-font-size: 20px;
   .title {
     padding-top: $header-circle-dimen / 2 - $header-title-font-size;
     font-size: $header-title-font-size;
+
+    a {
+      color: #5E5E5E;
+    }
   }
 
   .subtitle {
+    color: #909595;
     padding-top: 12px;
     font-size: $header-subtitle-font-size;
   }
@@ -28,5 +33,25 @@ $header-subtitle-font-size: 20px;
     @include border-radius($header-circle-dimen / 2);
     background-color: #dddddd;
     float: right;
+  }
+}
+
+$navbar-height: 50px;
+$navbar-link-font-size: 20px;
+
+.navbar {
+  height: $navbar-height;
+  background-color: #E2E9F0;
+
+  a {
+    vertical-align: center;
+    color: #90A6B9;
+    font-size: $navbar-link-font-size;
+    padding: 0 30px 0 30px;
+  }
+
+  .links {
+    text-align: center;
+    padding-top: ($navbar-height - $navbar-link-font-size) / 2;
   }
 }
