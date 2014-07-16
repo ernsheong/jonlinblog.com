@@ -7,7 +7,7 @@ per_page: 5
 <div class="uk-container-center uk-width-medium-4-6">
   <% blog.articles[0...10].each do |article| %>
     <div class="article-preview">
-      <div class="title"><%= link_to article.title, article %></div>
+      <h1 class="title"><%= link_to article.title, article %></h1>
 
       <div class="text">
         <%= article.summary %>

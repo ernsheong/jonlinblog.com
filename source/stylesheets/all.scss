@@ -81,15 +81,15 @@ $navbar-link-font-size: 20px;
  */
 
  $article-padding-top: 80px;
- $article-title-font-size: 36px;
+ $article-padding-bottom: 20px;
  $article-title-color: #706E71;
 
 .article-preview {
   padding-top: $article-padding-top;
+  padding-bottom: $article-padding-bottom;
 
   .title {
     text-align: center;
-    font-size: $article-title-font-size;
     color: $article-title-color;
     a {
       color: $article-title-color;
@@ -97,7 +97,7 @@ $navbar-link-font-size: 20px;
   }
 
   .text {
-    padding-top: 40px;
+    padding-top: 20px;
   }
 
   .continue {
@@ -111,16 +111,15 @@ $navbar-link-font-size: 20px;
 
 .article {
   padding-top: $article-padding-top;
+  padding-bottom: $article-padding-bottom;
 
   .title {
     text-align: center;
-    font-size: $article-title-font-size;
     color: $article-title-color;
   }
 
   .date {
     text-align: center;
-    padding-top: 20px;
     font-size: 18px;
     color: #9B9B9B;
   }
