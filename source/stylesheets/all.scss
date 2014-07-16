@@ -1,6 +1,21 @@
 @import "compass/css3/border-radius";
 
 /*
+ * Global
+ */
+
+ $text-font-size: 20px;
+
+ body {
+   p {
+     font-size: $text-font-size;
+     line-height: 32px;
+     margin-bottom: $text-font-size;
+     color: #7D766C;
+   }
+ }
+
+/*
  * Header
  */
 
@@ -36,6 +51,10 @@ $header-subtitle-font-size: 20px;
   }
 }
 
+/*
+ * Navigation
+ */
+
 $navbar-height: 50px;
 $navbar-link-font-size: 20px;
 
@@ -53,5 +72,39 @@ $navbar-link-font-size: 20px;
   .links {
     text-align: center;
     padding-top: ($navbar-height - $navbar-link-font-size) / 2;
+  }
+}
+
+/*
+ * Blog Articles
+ */
+
+.article-preview {
+  padding-top: 80px;
+
+  .title {
+    text-align: center;
+    font-size: 36px;
+
+    a {
+      color: #706E71;
+    }
+  }
+
+  .text {
+    padding-top: 40px;
+  }
+
+  .continue {
+    font-size: 20px;
+  }
+}
+
+.article {
+  .date {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 18px;
+    color: #9B9B9B;
   }
 }
