@@ -1,0 +1,18 @@
+<% wrap_layout :layout do %>
+  <div class="uk-container-center uk-width-medium-4-6 article">
+    <article>
+      <div class="title"><%= current_article.title %></div>
+      <div class="date"><%= current_article.date.strftime('%b %e, %Y') %></div>
+
+    <div class="text">
+      <%= yield %>
+    </div>
+
+    </article>
+    <div class="tags">
+      <% current_article.tags.each do |tag| %>
+        <button class="uk-button" type="button"><%= link_to tag %></button>
+      <% end %>
+    </div>
+  </div>
+<% end %>

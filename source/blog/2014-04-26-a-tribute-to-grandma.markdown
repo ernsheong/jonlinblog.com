@@ -1,6 +1,6 @@
 ---
 title: A tribute to Grandma
-tags: life
+tags: personal, life
 ---
 
 I am glad that I managed to visit my grandma in UH one last time on Thursday evening. She was asleep. At one point her eyes were open, and I faced her to look at her, and she at me. But she didn't utter a word, and her eyes soon closed again.

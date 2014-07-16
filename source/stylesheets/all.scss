@@ -5,8 +5,10 @@
  */
 
  $text-font-size: 20px;
+ $background-color: #F6F6F6;
 
  body {
+   background-color: $background-color;
    p {
      font-size: $text-font-size;
      line-height: $text-font-size * 1.8;
@@ -30,7 +32,6 @@ $header-subtitle-font-size: 20px;
   .title {
     padding-top: $header-circle-dimen / 2 - $header-title-font-size;
     font-size: $header-title-font-size;
-
     a {
       color: #5E5E5E;
     }
@@ -79,15 +80,19 @@ $navbar-link-font-size: 20px;
  * Blog Articles
  */
 
+ $article-padding-top: 80px;
+ $article-title-font-size: 36px;
+ $article-title-color: #706E71;
+
 .article-preview {
-  padding-top: 80px;
+  padding-top: $article-padding-top;
 
   .title {
     text-align: center;
-    font-size: 36px;
-
+    font-size: $article-title-font-size;
+    color: $article-title-color;
     a {
-      color: #706E71;
+      color: $article-title-color;
     }
   }
 
@@ -105,10 +110,48 @@ $navbar-link-font-size: 20px;
 }
 
 .article {
+  padding-top: $article-padding-top;
+
+  .title {
+    text-align: center;
+    font-size: $article-title-font-size;
+    color: $article-title-color;
+  }
+
   .date {
     text-align: center;
     padding-top: 20px;
     font-size: 18px;
     color: #9B9B9B;
+  }
+
+  .text {
+    margin-top: 30px;
+  }
+
+  $button-color-normal: #B4B3B3;
+  $button-color-hover: #D7D5D5;
+
+  .tags {
+    margin-bottom: 30px;
+
+    button {
+      color: $button-color-normal;
+      background: $background-color;
+      border-color: $button-color-normal;
+      a {
+        color: $button-color-normal;
+        text-decoration: none;
+      }
+    }
+
+    button:hover {
+      @extend button;
+      color: $button-color-hover;
+      border-color: $button-color-hover;
+      a {
+        color: $button-color-hover;
+      }
+    }
   }
 }
