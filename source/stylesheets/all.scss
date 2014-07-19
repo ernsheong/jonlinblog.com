@@ -71,7 +71,10 @@ $uk-large-max-width: 1199px;
 
 $text-font-size: 20px;
 $background-color: #F6F6F6;
+$accent-color: #EB9F21;
+$highlight-color: #F9E0B8;
 $link-color: #7DACE4;
+$text-color: #7D766C;
 
 body {
   background-color: $background-color;
@@ -79,7 +82,7 @@ body {
   p {
     line-height: $text-font-size * 1.8;
     margin-bottom: $text-font-size * 0.8;
-    color: #7D766C;
+    color: $text-color;
   }
   a {
     color: $link-color;
@@ -87,6 +90,9 @@ body {
   a:hover {
     color: $link-color;
   }
+  ::selection {
+    background:$highlight-color;
+    color: $text-color;  }
 }
 
 /*
@@ -155,7 +161,6 @@ $navbar-link-font-size: 20px;
  $page-padding-top: 80px;
  $page-padding-bottom: 20px;
  $page-title-color: #706E71;
- $page-accent-color: #EB9F21;
 
 .page-base {
   padding-top: $page-padding-top;
@@ -210,7 +215,7 @@ $navbar-link-font-size: 20px;
   text-align: center;
 
   .year {
-    color: $page-accent-color;
+    color: $accent-color;
   }
 
   .month {
