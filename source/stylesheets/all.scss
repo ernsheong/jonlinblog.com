@@ -69,18 +69,25 @@ $uk-large-max-width: 1199px;
  * Global
  */
 
- $text-font-size: 20px;
- $background-color: #F6F6F6;
+$text-font-size: 20px;
+$background-color: #F6F6F6;
+$link-color: #7DACE4;
 
- body {
-   background-color: $background-color;
-   p {
-     font-size: $text-font-size;
-     line-height: $text-font-size * 1.8;
-     margin-bottom: $text-font-size * 1.3;
-     color: #7D766C;
-   }
- }
+body {
+  background-color: $background-color;
+  font-size: $text-font-size;
+  p {
+    line-height: $text-font-size * 1.8;
+    margin-bottom: $text-font-size * 1.3;
+    color: #7D766C;
+  }
+  a {
+    color: $link-color;
+  }
+  a:hover {
+    color: $link-color;
+  }
+}
 
 /*
  * Header
@@ -142,30 +149,21 @@ $navbar-link-font-size: 20px;
 }
 
 /*
- * Blog Articles
+ * Page
  */
 
- $article-padding-top: 80px;
- $article-padding-bottom: 20px;
- $article-title-color: #706E71;
+ $page-padding-top: 80px;
+ $page-padding-bottom: 20px;
+ $page-title-color: #706E71;
+ $page-accent-color: #EB9F21;
 
-.article-base {
-  padding-top: $article-padding-top;
-  padding-bottom: $article-padding-bottom;
+.page-base {
+  padding-top: $page-padding-top;
+  padding-bottom: $page-padding-bottom;
 
   .title {
     text-align: center;
-    color: $article-title-color;
-  }
-
-  .date {
-    text-align: center;
-    font-size: 18px;
-    color: #9B9B9B;
-  }
-
-  .text {
-    padding-top: 30px;
+    color: $page-title-color;
   }
 
   img {
@@ -199,6 +197,72 @@ $navbar-link-font-size: 20px;
   }
 }
 
+/*
+ * Blog Archive
+ */
+
+ $archive-day-color: #9E98A0;
+ $archive-month-color: #747175;
+
+.archive-page {
+  @extend .page-base;
+
+  text-align: center;
+
+  .year {
+    color: $page-accent-color;
+  }
+
+  .month {
+    color: $archive-month-color;
+  }
+
+  .day {
+    float: right;
+    margin-right: 10px;
+    color: $archive-day-color;
+  }
+
+  .article-row {
+    margin-top: 6px !important;
+  }
+
+  .month-article-list {
+    text-align: left;
+    font-size: 20px;
+    line-height: 26px;
+    width: 80%;
+    margin: 0 auto;
+    @include small-screen {
+      width: 100%;
+    }
+  }
+}
+
+/*
+ * Article
+ */
+
+$article-title-color: #706E71;
+
+.article-base {
+  @extend .page-base;
+
+  .title {
+    color: $article-title-color;
+  }
+
+  .date {
+    text-align: center;
+    font-size: 18px;
+    color: #9B9B9B;
+  }
+
+  .text {
+    padding-top: 30px;
+  }
+}
+
 .article-preview {
   @extend .article-base;
 
@@ -211,9 +275,6 @@ $navbar-link-font-size: 20px;
   .continue {
     padding-top: $text-font-size;
     font-size: $text-font-size;
-    a {
-      color: #7DACE4;
-    }
   }
 }
 

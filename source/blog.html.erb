@@ -1,0 +1,30 @@
+---
+title: Blog Archive
+---
+
+<div class="uk-container-center uk-width-large-4-6 archive-page">
+  <h1 class="title">Blog Archive</h1>
+  <% blog.articles.group_by {|a| a.date.year }.each do |year, year_articles| %>
+    <!-- Year -->
+    <h2 class="year"><%= year %></h2>
+
+    <% year_articles.group_by {|a| a.date.month }.each do |month, month_articles| %>
+      <!-- Month -->
+      <h3 class="month"><%= month_articles.first.date.strftime("%B") %></h3>
+
+      <!-- Month Article List -->
+      <div class="month-article-list">
+        <% month_articles.each do |month_article| %>
+          <div class="article-row uk-grid">
+            <div class="uk-width-1-5">
+              <span class="uk-h4 day"><%= month_article.date.strftime("%-d") %></span>
+            </div>
+            <div class="uk-width-4-5">
+              <a href="<%= month_article.url %>"><%= month_article.title %></a>
+            </div>
+          </div>
+        <% end %>
+      </div>
+    <% end %>
+  <% end %>
+</div>
