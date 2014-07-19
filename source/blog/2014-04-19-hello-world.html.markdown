@@ -1,5 +1,5 @@
 ---
-title: Hello, World! Hello ello Hello Hi Hi Hi
+title: Hello, World!
 tags: general
 ---
 
