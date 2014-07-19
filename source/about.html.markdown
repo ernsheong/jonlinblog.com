@@ -15,4 +15,5 @@ Currently a software engineer at [Snappymob](http://www.snappymob.com), I have w
 
 During my downtime, I enjoy jogging, swimming, playing the guitar, hanging out with friends, writing, and reading.
 
-My faith as a Christian is a big part of who I am, having been saved by a God who unfailingly pursues me with his love and forgiveness. ✝
+My faith as a Christian is a big part of who I am, having been saved by a God who unfailingly pursues me with his love and forgiveness.
+He gives me hope for a future.

@@ -10,7 +10,7 @@
 
 <nav class="navbar">
    <div class="links">
-     <a href="/about">About</a>
-     <a href="/portfolio">Portfolio</a>
+     <%= link_to "About", "/about", class: current_page.path =~ /about/ ? "selected" : nil %>
+     <%= link_to "Portfolio", "/portfolio", class: current_page.path =~ /portfolio/ ? "selected" : nil %>
    </div>
 </nav>
