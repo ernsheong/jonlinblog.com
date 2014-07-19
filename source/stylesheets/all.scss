@@ -1,6 +1,45 @@
 @import "compass/css3/border-radius";
 
 /*
+ * Media query mixin
+ */
+
+$uk-mini-max-width: 479px;
+$uk-small-max-width: 767px;
+$uk-medium-max-width: 959px;
+$uk-large-max-width: 1199px;
+
+@mixin mini-screen {
+  @media screen and (max-width: $uk-mini-max-width) {
+    @content;
+  }
+}
+
+@mixin small-screen {
+  @media screen and (min-width: $uk-mini-max-width + 1) and (max-width: $uk-small-max-width) {
+    @content;
+  }
+}
+
+@mixin medium-screen {
+  @media screen and (min-width: $uk-small-max-width + 1) and (max-width: $uk-medium-max-width) {
+    @content;
+  }
+}
+
+@mixin large-screen {
+  @media screen and (min-width: $uk-medium-max-width + 1) and (max-width: $uk-large-max-width) {
+    @content;
+  }
+}
+
+@mixin xlarge-screen {
+  @media screen and (min-width: $uk-large-max-width + 1) {
+    @content;
+  }
+}
+
+/*
  * Global
  */
 
