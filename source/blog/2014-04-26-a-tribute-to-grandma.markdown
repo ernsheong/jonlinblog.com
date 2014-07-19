@@ -5,8 +5,8 @@ tags: personal, life
 
 I am glad that I managed to visit my grandma in UH one last time on Thursday evening. She was asleep. At one point her eyes were open, and I faced her to look at her, and she at me. But she didn't utter a word, and her eyes soon closed again.
 
-I didn't expect her to go so soon. On Tuesday when I visited, her oxygen level was unusually high in the 90s, and she showed great rigor in trying to untie herself from the bed. It was a vast improvement from days earlier. I thought that she might have a chance to go home.
-READMORE
+I didn't expect her to go so soon. On Tuesday when I visited, her oxygen level was unusually high in the 90s, and she showed great rigor in trying to untie herself from the bed. It was a vast improvement from days earlier. I thought that she might have a chance to go home. READMORE
+
 <img src="/images/mama-and-i.jpg" class="image-centered" />
 
 I heard stories of how some nurses uncompassionately mistreated my grandmother during caregiving. If my aunt were not at UH with her, I have no doubt that my grandmother would have passed away earlier. I wonder if we could have given her better care elsewhere.

@@ -9,6 +9,38 @@ $uk-small-max-width: 767px;
 $uk-medium-max-width: 959px;
 $uk-large-max-width: 1199px;
 
+@mixin phone-portrait {
+  @media screen and (max-width: $uk-mini-max-width) {
+    @content;
+  }
+}
+
+@mixin phone-landscape {
+  @media screen and (min-width: $uk-mini-max-width + 1) and (max-width: $uk-small-max-width) {
+    @content;
+  }
+}
+
+@mixin tablet-portrait {
+  @media screen and (min-width: $uk-small-max-width + 1) and (max-width: $uk-medium-max-width) {
+    @content;
+  }
+}
+
+@mixin desktop-and-tablet-landscape {
+  @media screen and (min-width: $uk-medium-max-width + 1) and (max-width: $uk-large-max-width) {
+    @content;
+  }
+}
+
+@mixin large-desktop {
+  @media screen and (min-width: $uk-large-max-width + 1) {
+    @content;
+  }
+}
+
+//------------------------------------------------------------------------------
+
 @mixin mini-screen {
   @media screen and (max-width: $uk-mini-max-width) {
     @content;
@@ -16,25 +48,19 @@ $uk-large-max-width: 1199px;
 }
 
 @mixin small-screen {
-  @media screen and (min-width: $uk-mini-max-width + 1) and (max-width: $uk-small-max-width) {
+  @media screen and (max-width: $uk-small-max-width) {
     @content;
   }
 }
 
 @mixin medium-screen {
-  @media screen and (min-width: $uk-small-max-width + 1) and (max-width: $uk-medium-max-width) {
+  @media screen and (max-width: $uk-medium-max-width) {
     @content;
   }
 }
 
 @mixin large-screen {
-  @media screen and (min-width: $uk-medium-max-width + 1) and (max-width: $uk-large-max-width) {
-    @content;
-  }
-}
-
-@mixin xlarge-screen {
-  @media screen and (min-width: $uk-large-max-width + 1) {
+  @media screen and (max-width: $uk-large-max-width) {
     @content;
   }
 }
@@ -140,6 +166,36 @@ $navbar-link-font-size: 20px;
 
   .text {
     padding-top: 30px;
+  }
+
+  img {
+    margin: 30px auto 35px auto;
+    display: block;
+  }
+  @include phone-portrait {
+    img {
+      width: 80%;
+    }
+  }
+  @include phone-landscape {
+    img {
+      width: 60%;
+    }
+  }
+  @include tablet-portrait {
+    img {
+      width: 70%;
+    }
+  }
+  @include desktop-and-tablet-landscape {
+    img {
+      width: 60%;
+    }
+  }
+  @include large-desktop {
+    img {
+      width: 50%;
+    }
   }
 }
 
