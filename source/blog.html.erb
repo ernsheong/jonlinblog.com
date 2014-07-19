@@ -2,7 +2,7 @@
 title: Blog Archive
 ---
 
-<div class="uk-container-center uk-width-large-4-6 archive-page">
+<div class="archive-page">
   <h1 class="title">Blog Archive</h1>
   <% blog.articles.group_by {|a| a.date.year }.each do |year, year_articles| %>
     <!-- Year -->

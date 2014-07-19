@@ -4,21 +4,19 @@ pageable: true
 per_page: 5
 ---
 
-<div class="uk-container-center uk-width-large-4-6">
-  <% blog.articles[0...10].each do |article| %>
-    <div class="article-preview">
-      <h1 class="title"><%= link_to article.title, article %></h1>
-      <div class="date"><%= article.date.strftime('%b %e, %Y') %></div>
+<% blog.articles[0...10].each do |article| %>
+  <div class="article-preview">
+    <h1 class="title"><%= link_to article.title, article %></h1>
+    <div class="date"><%= article.date.strftime('%b %e, %Y') %></div>
 
-      <div class="text">
-        <%= article.summary %>
-      </div>
-
-      <div class="continue">
-        <%= link_to "Continue reading...", article %>
-      </div>
+    <div class="text">
+      <%= article.summary %>
     </div>
-  <% end %>
 
-  <div class="archive-link uk-text-center"><%= link_to "Blog Archive", "/blog" %></div>
-</div>
+    <div class="continue">
+      <%= link_to "Continue reading...", article %>
+    </div>
+  </div>
+<% end %>
+
+<div class="archive-link uk-text-center"><%= link_to "Blog Archive", "/blog" %></div>

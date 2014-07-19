@@ -17,8 +17,10 @@
     <%= partial :header %>
 
     <div class="uk-container uk-container-center">
-      <%= yield %>
-      <%= partial :footer %>
+      <div class="uk-container-center uk-width-medium-4-6">
+        <%= yield %>
+        <%= partial :footer %>
+      </div>
     </div>
   </body>
 </html>
