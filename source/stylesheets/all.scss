@@ -335,12 +335,22 @@ $article-title-color: #706E71;
  * About page
  */
 
- .about {
-   img.profile-image {
-     @include border-radius(10px);
-     max-width: 250px;
-   }
- }
+.about {
+  img.profile-image {
+   @include border-radius(10px);
+   max-width: 250px;
+  }
+}
+
+/*
+ * 404
+ */
+
+.error {
+  text-align: center;
+  color: $text-color;
+  padding-top: $page-padding-top;
+}
 
 
 // TODO: page-nav-link

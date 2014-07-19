@@ -18,6 +18,8 @@
 #
 # With alternative layout
 page "/about.html", :layout => :markdown
+page "/404.html", directory_index: false
+
 #
 # A path which all have the same layout
 # with_layout :admin do
