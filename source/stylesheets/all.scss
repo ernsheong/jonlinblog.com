@@ -119,12 +119,20 @@ $header-subtitle-font-size: 20px;
     a {
       color: #5E5E5E;
     }
+
+    @include small-screen {
+      text-align: center;
+    }
   }
 
   .subtitle {
     color: #909595;
     padding-top: 12px;
     font-size: $header-subtitle-font-size;
+
+    @include small-screen {
+      text-align: center;
+    }
   }
 
   .circular-image {
@@ -134,6 +142,12 @@ $header-subtitle-font-size: 20px;
     background-image: url(/images/profile-pic-small.jpg);
     background-size: $header-circle-dimen $header-circle-dimen;
     float: right;
+
+    @include small-screen {
+      float: none;
+      width: $header-circle-dimen;
+      margin: 0 auto;
+    }
   }
 }
 
@@ -339,12 +353,12 @@ $article-title-color: #706E71;
     .title {
       color: #747175;
       font-size: 24px;
-      line-height: 28px;
+      line-height: 32px;
     }
     .description {
       color: #888585;
       font-size: 18px;
-      line-height: 24px;
+      line-height: 28px;
       margin-top: 12px;
     }
   }
