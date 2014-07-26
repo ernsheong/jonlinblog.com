@@ -1,0 +1,15 @@
+- title: theSun — Malaysia News
+  description: A simple RSS news reader for Malaysia's theSun newspaper.
+  image: /images/the-sun-daily.png
+  android: https://play.google.com/store/apps/details?id=com.ernsheong.thesundaily
+
+- title: Saved — Budget and Expense Tracker
+  description: Budgeting made easy and beautiful.
+  image: /images/saved.png
+  ios: https://itunes.apple.com/my/app/saved-budget-expense-tracker/id777889357?mt=8
+
+- title: The Malaysian Insider
+  description: Official app for The Malaysian Insider. Simple and sleek.
+  image: /images/the-malaysian-insider.png
+  android: https://play.google.com/store/apps/details?id=com.inmobi.tmi.ui
+  blackberry: http://appworld.blackberry.com/webstore/content/44943898/?countrycode=MY&lang=en
