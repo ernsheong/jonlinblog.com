@@ -131,7 +131,8 @@ $header-subtitle-font-size: 20px;
     height: $header-circle-dimen;
     width: $header-circle-dimen;
     @include border-radius($header-circle-dimen / 2);
-    background-color: #dddddd;
+    background-image: url(/images/profile-pic-small.jpg);
+    background-size: $header-circle-dimen $header-circle-dimen;
     float: right;
   }
 }
@@ -343,7 +344,7 @@ $article-title-color: #706E71;
     .description {
       color: #888585;
       font-size: 18px;
-      line-height: 22px;
+      line-height: 24px;
       margin-top: 12px;
     }
   }
