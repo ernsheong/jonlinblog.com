@@ -75,6 +75,7 @@ $accent-color: #DDA851;
 $highlight-color: #F9E0B8;
 $link-color: #79A0CF;
 $text-color: #7D766C;
+$page-title-color: #706E71;
 
 body {
   background-color: $background-color;
@@ -93,6 +94,11 @@ body {
   ::selection {
     background:$highlight-color;
     color: $text-color;  }
+
+  h1, h2 {
+    text-align: center;
+    color: $page-title-color;
+  }
 }
 
 /*
@@ -167,19 +173,12 @@ $navbar-link-font-size: 20px;
  * Page
  */
 
- $page-padding-top: 80px;
- $page-padding-bottom: 20px;
- $page-title-color: #706E71;
+.page-container {
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
 
 .page-base {
-  padding-top: $page-padding-top;
-  padding-bottom: $page-padding-bottom;
-
-  .title {
-    text-align: center;
-    color: $page-title-color;
-  }
-
   img {
     margin: 30px auto 35px auto;
     display: block;
@@ -323,16 +322,36 @@ $article-title-color: #706E71;
 }
 
 /*
+ * Portfolio page
+ */
+
+.portfolio {
+  .app {
+    .icon {
+      img {
+        float: right;
+      }
+    }
+    .title {
+      color: #747175;
+      font-size: 24px;
+      margin-top: 5px;
+    }
+    .description {
+      color: #888585;
+      font-size: 18px;
+      line-height: 22px;
+      margin-top: 12px;
+    }
+  }
+}
+
+/*
  * Markdown page
  */
 
 .markdown-page {
   @extend .page-base;
-
-  h1 {
-    text-align: center;
-    color: $page-title-color;
-  }
 }
 
 /*
@@ -353,7 +372,6 @@ $article-title-color: #706E71;
 .error {
   text-align: center;
   color: $text-color;
-  padding-top: $page-padding-top;
 }
 
 
