@@ -1,22 +1,4 @@
 ---
 title: Jonathan ES Lin
-pageable: true
-per_page: 5
+layout: article_list_layout
 ---
-
-<% blog.articles[0...10].each do |article| %>
-  <div class="article-preview">
-    <h1 class="title"><%= link_to article.title, article %></h1>
-    <div class="date"><%= article.date.strftime('%b %e, %Y') %></div>
-
-    <div class="text">
-      <%= article.summary %>
-    </div>
-
-    <div class="continue">
-      <%= link_to "Continue reading ≫", article %>
-    </div>
-  </div>
-<% end %>
-
-<div class="archive-link uk-text-center"><%= link_to "Blog Archive", "/blog" %></div>

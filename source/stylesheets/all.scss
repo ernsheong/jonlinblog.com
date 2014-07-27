@@ -293,6 +293,8 @@ $article-title-color: #706E71;
 .article-preview {
   @extend .article-base;
 
+  margin-bottom: $text-font-size * 3;
+
   .title {
     a {
       color: $article-title-color;
@@ -341,7 +343,8 @@ $article-title-color: #706E71;
 
 .portfolio {
   h2 {
-    margin-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 30px;
   }
   .app {
     .icon {
@@ -356,7 +359,7 @@ $article-title-color: #706E71;
     }
     .description {
       color: #888585;
-      font-size: 18px;
+      font-size: $text-font-size;
       line-height: 28px;
       margin-top: 12px;
     }
