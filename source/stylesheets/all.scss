@@ -219,6 +219,10 @@ $navbar-link-font-size: 20px;
     margin: 20px auto 30px auto;
     display: block;
     width: 90%;
+
+    @include small-screen {
+      width: 100%;
+    }
   }
 }
 
