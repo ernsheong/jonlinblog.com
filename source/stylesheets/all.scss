@@ -421,4 +421,17 @@ $article-title-color: #706E71;
   line-height: 22px;
   color: #8BA5BF;
   text-align: center;
+
+  .social {
+    font-size: 36px;
+    margin: 0 12px;
+  }
+  .social:hover {
+    color: $accent-color;
+    text-decoration: none;
+  }
+
+  .social-row {
+    margin-top: 24px;
+  }
 }
