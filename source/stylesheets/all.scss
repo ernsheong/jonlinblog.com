@@ -171,7 +171,6 @@ $navbar-link-font-size: 20px;
 
   a.selected {
     color: $accent-color;
-    text-decoration: underline;
   }
 
   a:hover {
@@ -416,14 +415,14 @@ $article-title-color: #706E71;
 
 .footer {
   padding-top: 60px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   font-size: 16px;
   line-height: 22px;
   color: #8BA5BF;
   text-align: center;
 
   .social {
-    font-size: 36px;
+    font-size: 42px;
     margin: 0 12px;
   }
   .social:hover {
