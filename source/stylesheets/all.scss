@@ -194,33 +194,9 @@ $navbar-link-font-size: 20px;
 
 .page-base {
   img {
-    margin: 30px auto 35px auto;
+    margin: 30px auto 20px auto;
     display: block;
-  }
-  @include phone-portrait {
-    img {
-      width: 80%;
-    }
-  }
-  @include phone-landscape {
-    img {
-      width: 60%;
-    }
-  }
-  @include tablet-portrait {
-    img {
-      width: 70%;
-    }
-  }
-  @include desktop-and-tablet-landscape {
-    img {
-      width: 60%;
-    }
-  }
-  @include large-desktop {
-    img {
-      width: 50%;
-    }
+    width: 90%;
   }
 }
 
@@ -287,6 +263,14 @@ $article-title-color: #706E71;
 
   .text {
     padding-top: 30px;
+  }
+
+  .caption {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-size: 18px;
+    color: #A4A1A1;
   }
 }
 
