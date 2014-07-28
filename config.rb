@@ -19,6 +19,7 @@
 # With alternative layout
 page "/about.html", :layout => :markdown
 page "/404.html", directory_index: false
+page "/google8fa740a5bb2f37bc.html", directory_index: false
 
 #
 # A path which all have the same layout
