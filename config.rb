@@ -11,6 +11,8 @@
 # Page options, layouts, aliases and proxies
 ###
 
+Time.zone = "Kuala Lumpur"
+
 # Per-page layout changes:
 #
 # With no layout
@@ -63,6 +65,11 @@ activate :blog do |blog|
 end
 
 activate :directory_indexes
+
+activate :s3_sync do |s3_sync|
+  s3_sync.bucket = 'jonlin.es'
+  s3_sync.region = 'ap-southeast-1'
+end
 
 # Reload the browser automatically whenever files change
 # configure :development do
