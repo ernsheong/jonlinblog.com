@@ -12,7 +12,7 @@ In other words, if you show up every week and do the predetermined daily devotio
 (everyone has devotional homework of the same format), you are okay, and everyone is okay.
 But if you didn't manage to do them, then maybe you need to buck up and be like the rest.
 
-Or, as long as we keep you busy with a schedule of Christian events, you are buffered from idleness and are less likely to sin.
+Or, as long as you are kept busy with a schedule of Christian events, you are buffered from idleness and are less likely to sin.
 Your commitment toward Christian outreach and ministry shows how committed you are as a Christian.
 
 There is a certain danger to all this. For one, there is the danger that regimented Christianity is all about outward behavior.
