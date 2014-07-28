@@ -24,7 +24,7 @@ It's like clockwork, void of desire and genuine care. There are rules as to how 
 While I obtain some nuggets of spiritual insight, I am often left wanting. What I really seek is personal time to explore the Word in depth on my own.
 
 The other problem is that regimented Christianity assumes that everyone is on the same spiritual boat, and can maintain the same spiritual schedule in their lives.
-It is only for a certain competent Christian elites who can keep up (Ever heard of the phrase, "This church or fellowship is not for everyone"?).
+It is only for certain competent Christian elites who can keep up ("This church or fellowship is not for everyone.").
 The reality is that everyone is in different phases of their spiritual walk with God, with different personalities, dispositions, and careers.
 
 Still another problem is that regimented Christianity leaves one with little or no time for frivolous pursuits that give much color to life.
@@ -32,8 +32,8 @@ What is this life if so full of Christian activity, we have no time to stand and
 So much time is spent in Christian activities that we spend little time elsewhere mixing around with others, doing fun and trivial things.
 Salt loses its flavor.
 
-And where is grace? If our lives are so organized around a certain schedule that there is little room or time to sin,
-are we trusting in God's grace or are we trusting more in our abilities to build walls around ourselves that keep us artificially right with God?
+And where is grace? If our lives are closely organized around a certain schedule that there is little room or time to sin,
+are we trusting in God's grace or are we trusting more in our ability to build walls around ourselves that keep us artificially right with God?
 
 Perhaps regimented Christianity is a bootcamp that some may choose to subject themselves in the short term, with certain benefits.
 For those who are less disciplined with their time, such a regiment may be a blessing.
