@@ -15,6 +15,8 @@ But if you didn't manage to do them, then maybe you need to buck up and be like 
 Or, as long as you are kept busy with a schedule of Christian events, you are buffered from idleness and are less likely to sin.
 Your commitment toward Christian outreach and ministry shows how committed you are as a Christian.
 
+Or it may come in the form of rules: no alcohol, no pork, no jewellery, no dating in college, thou shall not buy luxury cars, etc.
+
 There is a certain danger to all this. For one, there is the danger that regimented Christianity is all about outward behavior.
 As long as I keep up with the pace and manage the regiment well, people will see that I am doing okay as a Christian,
 regardless of my real heart condition.
