@@ -5,6 +5,7 @@ tags: life
 
 As evidenced by the MH370 and MH17 episodes recently, life can literally take a nosedive such that
 we disappear into oblivion, or be shot down from the sky.
+READMORE
 
 We plan so much for our future, and yet all things can suddenly come to an end. Neither AIA
 nor Allainz will matter. Nor would all the properties, gold bars, and fixed deposits
