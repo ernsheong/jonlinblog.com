@@ -8,7 +8,7 @@ title: Portfolio | Jon ES Lin
 
 <% data.mobile_apps.each do |app| %>
   <!-- App row -->
-  <div class="uk-grid app">
+  <div class="uk-grid project">
     <div class="uk-width-medium-2-10 uk-width-3-10 icon">
       <img src="<%= app.image %>" width="100px;"/>
     </div>
@@ -29,7 +29,13 @@ title: Portfolio | Jon ES Lin
 <% end %>
 
 <h2>Web Apps</h2>
-<div class="app web-app">
+<div class="project section">
   <div class="title">Otak-Otak Internship Program CRM</div>
   <div class="description">A customized Rails app to manage <a href="http://www.otak2.com">Otak-Otak</a> internship program applicants. Features include invoice and client tracking, applicant filtering, emailing, etc.</div>
+</div>
+
+<h2>Projects</h2>
+<div class="project section">
+  <div class="title"><%= link_to "moolah-ruby gem", "https://github.com/coingecko/moolah-ruby" %></div>
+  <div class="description">A Ruby wrapper for the Moolah.io Transaction API. </div>
 </div>
