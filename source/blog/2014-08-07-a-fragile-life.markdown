@@ -21,7 +21,7 @@ In life many things don't go according to plan. Sometimes it is a matter of life
 Other times it is a matter of life and death.
 
 The world is fragile. There's a war in the Gaza strip. Ebola recently claimed its
-thousands. Four major plane crashes in half a year.
+hundreds. Four major plane crashes in half a year.
 
 There are so many things that can go wrong. A truck could hit me from the side,
 a robber can chop me with a parang till I bleed to death, my speeding car could hit a rogue car
