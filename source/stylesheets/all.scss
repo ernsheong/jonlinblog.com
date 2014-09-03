@@ -80,7 +80,7 @@ $page-title-color: #706E71;
 body {
   background-color: $background-color;
   font-size: $text-font-size;
-  p {
+  p, li {
     line-height: $text-font-size * 1.8;
     margin-bottom: $text-font-size * 0.8;
     color: $text-color;

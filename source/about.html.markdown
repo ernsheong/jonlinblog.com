@@ -11,7 +11,14 @@ Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where 
 I live in Kuala Lumpur, Malaysia (Petaling Jaya, to be exact).
 
 I am a University of California, Berkeley alum with degrees in [EECS](http://www.eecs.berkeley.edu/) and Physics.
-Currently a software engineer at [Snappymob](http://www.snappymob.com), I have worked on iOS, Android, BlackBerry, and Ruby on Rails apps.
+Currently a software consultant at [Belian Tech](http://beliantech.com), I have worked on iOS, Android, BlackBerry, and Ruby on Rails apps.
+
+Previous working experience:
+
+- Mobile software engineer at [Snappymob](https://www.snappymob.com). I helped churn out the Android and BlackBerry apps for The Malaysian Insider,
+as well as contributed to the development of Saved for iOS and Android, a budgeting and expenses app.
+- Web software engineer at [Ocision](http://www.ocision.com), now a subsidiary of Star Media Group. Our products include [Propwall](http:/propwall.com),
+[iBilik](http://www.ibilik.com), and [Carsifu](http://www.carsifu.my).
 
 During my downtime, I enjoy jogging, swimming, badminton, playing the guitar, hanging out with friends, writing, and reading.
 
