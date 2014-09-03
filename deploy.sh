@@ -1,6 +1,6 @@
 #!/bin/sh
-middleman build
-middleman s3_sync
+bundle exec middleman build
+bundle exec middleman s3_sync
 
 # Old sync using aws tools
 # aws s3 rm s3://jonlin.es --recursive --region=ap-southeast-1
