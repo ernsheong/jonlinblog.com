@@ -8,7 +8,7 @@ People call it freelancing (to my annoyance), but I call it consulting. It's ser
 I sublet an office room in SS2 and I check in to work everyday like any other worker bee.
 READMORE
 
-It's been two months so I just want to share the realities of software consulting or software in general, and other lessons picked up along the way:
+It's been two months so I just want to share the realities of software consulting, and other lessons picked up along the way:
 
 1. **All the client cares about is the visible product.** He does not care if you took the time to do proper
 testing, did refactoring to ensure good code quality and maintainability, or set up server automation. But these things, while they do not
@@ -46,7 +46,7 @@ only cost-efficient tests if you are consulting.
 6. **More hours is not the solution.** When I started out I tried to squeeze in as much work time as possible before dinner comes (I seldom work nights).
 But I realized that in software it is not about putting in more hours.
 Sometimes it is much better to take a break and solve the problem later instead of sitting at the computer longer.
-It's just human to do so. Sometimes my most productive days were days when I slept in and somehow managed to do all the things that I was supposed to do.
+It's just being human. Sometimes my most productive days were days when I slept in and somehow managed to do all the things that I was supposed to do.
 Software development is a marathon with some sprints. Sprinting all the time leads to burnout.
 (Speaking of timing, I'm pretty strict about it. I use a timer to time when I am working on a client project. I stop the timer when going to the bathroom or goofing off on Facebook.
 I realize that it is quite hard to actually achieve 6-7 billable hours a day. Try timing yourself at work. 30 billable hours per work week is normal.)
