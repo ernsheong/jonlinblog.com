@@ -73,9 +73,9 @@ $text-font-size: 20px;
 $background-color: #F6F6F6;
 $accent-color: #DDA851;
 $highlight-color: #F9E0B8;
-$link-color: #79A0CF;
-$text-color: #7D766C;
-$page-title-color: #706E71;
+$link-color: #6495cf;
+$text-color: #716a61;
+$page-title-color: #3c3b3d;
 
 body {
   background-color: $background-color;
@@ -100,13 +100,17 @@ body {
     color: $page-title-color;
   }
 
-  $button-color-normal: #929090;
-  $button-color-hover: #C4C0C0;
+  em {
+    color: $text-color;
+  }
+
+  $button-color-normal: #6a6868;
+  $button-color-hover: #908d8d;
 
   button {
     color: $button-color-normal;
     background: $background-color;
-    border-color: $button-color-normal;
+
     a {
       color: $button-color-normal;
       text-decoration: none;
@@ -148,7 +152,7 @@ $header-subtitle-font-size: 20px;
   }
 
   .subtitle {
-    color: #909595;
+    color: #7c8080;
     padding-top: 12px;
     font-size: $header-subtitle-font-size;
 
@@ -186,7 +190,7 @@ $navbar-link-font-size: 20px;
 
   a {
     vertical-align: center;
-    color: #90A6B9;
+    color: #6c8bb9;
     font-size: $navbar-link-font-size;
     padding: 0 30px 0 30px;
   }
@@ -423,7 +427,7 @@ $article-title-color: #706E71;
   padding-bottom: 15px;
   font-size: 16px;
   line-height: 22px;
-  color: #8BA5BF;
+  color: #7d9bbf;
   text-align: center;
 
   .social {
