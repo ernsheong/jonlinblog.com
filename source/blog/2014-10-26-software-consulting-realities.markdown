@@ -19,14 +19,13 @@ Manage their expectations and help your clients understand how software works. T
 2. **Say no to fixed-price jobs.** As far as possible, try to avoid quoting a final figure for the job. Clients don't understand
 software complexity, and sometimes they demand so many features without realizing that it takes a lot to build server infrastructure
 and client apps at the same time as part of a single project. Try to work on an hourly rate, and give the client an estimated cost instead. I have come
-to a point that unless I am thoroughly familiar with the job domain, or doing a relatively small job, I will never quote a single figure for the job. I don't even care
-if they go elsewhere; I don't want to be trapped putting in more hours into writing software that is virtually costing me a loss.
+to a point that unless I am thoroughly familiar with the job domain, or doing a relatively small job, I will never quote a single figure for the job. I don't care
+if they go elsewhere, as I don't want to be trapped putting in more hours into writing software that is virtually costing me a loss.
 Clients don't realize that software is not a finish-and-submit type of thing. There will need to be ongoing maintenance and optimizations, and a one-time pricing just does not cut it.
 
 3. **Ground-up software is mentally draining.** Writing software for clients from scratch can be a bore. Each time a new client comes along wanting a new web or mobile app,
 I have to go back to the drawing board and start everything from scratch again. It's draining and tiring. And when I stop working or putting in those
-hours, I stop generating income. This has caused me to start exploring product development, otherwise it would not
-be sustainable and I would have to rejoin the working world someday.
+hours, I stop generating income. This has caused me to start exploring product development.
 
 4. **Bite-sized tasks.** Software is just plain hard. It's a time consuming venture to even build something that sounds trivial. Think hundreds of hours.
 Trying to think about the scope of the project can often be crippling. My small mind can only focus on one thing at a time.
