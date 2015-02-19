@@ -1,6 +1,6 @@
 ---
 title: Confessions of an ISTJ
-tags: general
+tags: personal
 ---
 
 Disclaimer: Well, perhaps not all [ISTJ](https://www.personalitypage.com/ISTJ.html)s are like this. But it's true for me at least, most of the time. It may even be just me, not an ISTJ thing.
