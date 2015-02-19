@@ -8,6 +8,7 @@ Disclaimer: Well, perhaps not all [ISTJ](https://www.personalitypage.com/ISTJ.ht
 1. When I'm engrossed in something, like when I'm actually busy on the computer,
 nothing goes in if you try to tell me something. I'd pay lip service a bit,
 but I'm really not paying attention. So please don't go mad later when I say, "I don't remember you saying that!"
+READMORE
 
 2. Relationships that don't work out hurt the ISTJ really, really badly. I suspect we ISTJs
 suffer the most compared to the rest of the personality types. Before making the first move, we have already invested
