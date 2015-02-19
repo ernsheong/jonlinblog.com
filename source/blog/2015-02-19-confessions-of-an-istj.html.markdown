@@ -40,6 +40,7 @@ doesn't at least provide some highly practical function. I'm becoming increasing
 about startups these days, because what's wrong with the current way of doing things? (point 3)
 
 8. In my weakest moments, I don't actually follow through with what I have promised, even if that is
-a so-called ISTJ hallmark. It makes me feel really bad, but ISTJs do fail as well.
+a so-called ISTJ hallmark. It makes me feel really bad, but ISTJs do fail to keep their word sometimes,
+especially when plunged into a crisis mode.
 
 So these are the things I've discovered about myself. I don't like it much, but I just can't change my hardwiring to fast too soon. A girl who knows all this and still wants to be with me will be my jewel.
