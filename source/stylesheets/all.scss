@@ -351,6 +351,8 @@ $article-title-color: #706E71;
   }
 
   .project {
+    margin-bottom: 28px;
+
     .icon {
       img {
         float: right;
@@ -359,7 +361,7 @@ $article-title-color: #706E71;
     .title {
       color: #747175;
       font-size: 22px;
-      line-height: 30px;
+      line-height: 24px;
     }
     .description {
       color: #888585;
