@@ -1,5 +1,5 @@
 ---
-title: Moving to enterprise software
+title: Moving to Enterprise Software
 tags: work, software
 ---
 
