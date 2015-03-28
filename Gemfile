@@ -10,3 +10,4 @@ gem "middleman-livereload", "~> 3.1.0"
 gem "middleman-blog", "~> 3.5.3"
 
 gem 'middleman-s3_sync'
+gem 'middleman-cloudfront', '~> 0.1.1'
