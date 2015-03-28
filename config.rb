@@ -75,12 +75,7 @@ activate :cloudfront do |cf|
   cf.access_key_id = ENV['PERSONAL_AWS_ACCESS_KEY_ID']
   cf.secret_access_key = ENV['PERSONAL_AWS_SECRET_ACCESS_KEY']
   cf.distribution_id = 'E2VSTOR9GCNVJM'
-  # cf.filter = /\.html$/i  # default is /.*/
-  # cf.after_build = false  # default is false
-end
-
-after_s3_sync do |files_by_status|
-  invalidate files_by_status[:updated]
+  cf.filter = /\.html$/i
 end
 
 # Reload the browser automatically whenever files change
@@ -119,4 +114,8 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+end
+
+after_s3_sync do |files_by_status|
+  invalidate files_by_status[:updated]
 end
