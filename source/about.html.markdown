@@ -14,7 +14,7 @@ I am a University of California, Berkeley alum with degrees in [EECS](http://www
 
 Previous working experiences:
 
-- Software consultant at [Belian Tech](http://beliantech.com), I have worked on iOS, Android, BlackBerry, and Ruby on Rails apps. Currently a limited part-time effort.
+- Software consultant at [Belian Tech](http://beliantech.com), where I worked on Ruby on Rails apps. Currently a limited part-time effort.
 - Mobile software engineer at [Snappymob](https://www.snappymob.com). I helped churn out the Android and BlackBerry apps for The Malaysian Insider,
 as well as contributed to the development of Saved for iOS and Android, a budgeting and expenses app.
 - Web software engineer at [Ocision](http://www.ocision.com), now a subsidiary of Star Media Group. Our products include [Propwall](http://www.propwall.com), [iBilik](http://www.ibilik.com), and [Carsifu](http://www.carsifu.my).
