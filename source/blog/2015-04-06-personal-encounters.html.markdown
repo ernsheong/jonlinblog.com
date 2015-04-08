@@ -48,4 +48,4 @@ a much more plausible explanation: God was revealing himself to me.
 
 Well, I suppose three's a charm for the stubborn person that I was (and perhaps still am).
 
-But perhaps with great encounters there will be great responsibility someday.
+But perhaps with great encounters there would be great responsibility someday.
