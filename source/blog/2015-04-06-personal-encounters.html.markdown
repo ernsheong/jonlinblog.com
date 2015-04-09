@@ -48,4 +48,7 @@ a much more plausible explanation: God was revealing himself to me.
 
 Well, I suppose three's a charm for the stubborn person that I was (and perhaps still am).
 
-But perhaps with great encounters there would be great responsibility someday.
+Soon after, I realized that I was deeply loved. This love does not depend on my ability to serve.
+It's the kind of love where you can lose everything and yet still have everything.
+
+But perhaps great encounters entail great responsibility someday.
