@@ -33,12 +33,12 @@ Will you give God what you desired to have for yourself so much?"
 I called home later that week, and my mum told me to not worry, just focus on studies. I wasn't happy with that answer.
 Why was my Christian life so unjoyful? Something was wrong.
 
-Soon, on a Friday bible study, a visiting pastor spoke on his void of joy in Christian life during his earlier days in college.
+Soon, during a Friday bible study, a visiting pastor spoke on his void of joy in Christian life during his earlier days in college.
 Surprisingly, he too called his mum, and she told him to church hop, but he ignored her advice. He quoted Matthew 13:44-46.
 He said that only way to joy in Christian life is to give up everything: "You have to decide whether to give your life radically to the Gospel, or not."
 
-“The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and then in his joy went and sold all he had and bought that field.
-Again, the kingdom of heaven is like a merchant looking for fine pearls. When he found one of great value, he went away and sold everything he had and bought it."
+*“The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and then in his joy went and sold all he had and bought that field.
+Again, the kingdom of heaven is like a merchant looking for fine pearls. When he found one of great value, he went away and sold everything he had and bought it."*
 
 My third encounter was during a prayer meeting soon after, when I went forward for prayer. I didn't tell the person much,
 but he prayed so specifically that I knew God was telling me something.
@@ -48,7 +48,10 @@ a much more plausible explanation: God was revealing himself to me.
 
 Well, I suppose three's a charm for the stubborn person that I was (and perhaps still am).
 
-Soon after, I realized that I was deeply loved. This love does not depend on my ability to serve.
+Eventually, I realized that I was deeply loved. This love does not depend on my ability to serve.
 It's the kind of love where you can lose everything and yet still have everything.
+
+One day, the song [Take Up Your Cross](https://www.youtube.com/watch?v=77RHISYAD_E) by the Brooklyn Tabernacle Choir kept playing in my head.
+That very same day I "turned myself over" to God.
 
 But perhaps great encounters entail great responsibility someday.
