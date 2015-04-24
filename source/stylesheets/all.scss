@@ -76,7 +76,7 @@ $accent-color: #DDA851;
 $highlight-color: #F9E0B8;
 $link-color: #6495cf;
 $text-color: #716a61;
-$page-title-color: #3c3b3d;
+$page-title-color: #6B6A6D;
 
 body {
   background-color: $background-color;
@@ -113,6 +113,10 @@ body {
     font-weight: 600;
     text-align: center;
     color: $page-title-color;
+  }
+
+  h1 {
+    font-size: 32px;
   }
 
   em {
