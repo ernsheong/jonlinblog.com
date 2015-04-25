@@ -71,12 +71,18 @@ $uk-large-max-width: 1199px;
 
 $text-font-size: 18px;
 $text-font-size-mobile: 16px;
-$background-color: #F6F6F6;
-$accent-color: #DDA851;
+
+$accent-color: #e09d45;
+$background-color: #f8f8f8;
+$header-background-color: #EEF2F6;
+$header-text-color: #5E5E5E;
 $highlight-color: #F9E0B8;
-$link-color: #6495cf;
-$text-color: #716a61;
-$page-title-color: #6B6A6D;
+$link-color: #3c87c5;
+$footer-text-color: #7397be;
+$text-color: #4c453a;
+$text-light-color: #645b4f;
+$text-extra-light-color: #7c8080;
+$page-title-color: $header-text-color;
 
 body {
   background-color: $background-color;
@@ -105,8 +111,9 @@ body {
     color: $link-color;
   }
   ::selection {
-    background:$highlight-color;
-    color: $text-color;  }
+    background: $highlight-color;
+    color: $text-color;
+  }
 
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Open Sans', sans-serif;
@@ -155,14 +162,14 @@ $header-title-font-size: 28px;
 $header-subtitle-font-size: 20px;
 
 .header {
-  background-color: #EEF2F6;
+  background-color: $header-background-color;
   padding: 20px 0 20px 0;
 
   .title {
     padding-top: $header-circle-dimen / 2 - $header-title-font-size;
     font-size: $header-title-font-size;
     a {
-      color: #5E5E5E;
+      color: $header-text-color;
     }
 
     @include small-screen {
@@ -171,7 +178,7 @@ $header-subtitle-font-size: 20px;
   }
 
   .subtitle {
-    color: #7c8080;
+    color: $text-extra-light-color;
     padding-top: 12px;
     font-size: $header-subtitle-font-size;
 
@@ -253,9 +260,6 @@ $navbar-link-font-size: 20px;
  * Blog Archive
  */
 
- $archive-day-color: #9E98A0;
- $archive-month-color: #747175;
-
 .archive-page {
   @extend .page-base;
 
@@ -266,13 +270,13 @@ $navbar-link-font-size: 20px;
   }
 
   .month {
-    color: $archive-month-color;
+    color: $text-light-color;
   }
 
   .day {
     float: right;
     margin-right: 10px;
-    color: $archive-day-color;
+    color: $text-extra-light-color;
   }
 
   .article-row {
@@ -307,7 +311,7 @@ $article-title-color: #706E71;
   .date {
     text-align: center;
     font-size: 18px;
-    color: #9B9B9B;
+    color: $text-extra-light-color;
   }
 
   .text {
@@ -367,12 +371,12 @@ $article-title-color: #706E71;
       }
     }
     .title {
-      color: #747175;
+      color: $text-color;
       font-size: 22px;
       line-height: 24px;
     }
     .description {
-      color: #888585;
+      color: $text-light-color;
       font-size: $text-font-size;
       line-height: 28px;
       margin-top: 12px;
@@ -448,7 +452,7 @@ $article-title-color: #706E71;
   padding-bottom: 15px;
   font-size: 16px;
   line-height: 22px;
-  color: #7d9bbf;
+  color: $footer-text-color;
   text-align: center;
 
   .social {
