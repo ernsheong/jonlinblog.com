@@ -10,7 +10,7 @@ title: About | Jon ES Lin
 Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where I blog about life, software, and Christianity.
 I live in Petaling Jaya, Malaysia.
 
-I am a University of California, Berkeley alum with degrees in [EECS](http://www.eecs.berkeley.edu/) and Physics. In March 2015, I joined [BAE Systems Applied Intelligence](http://www.baesystems.com/ai) as a Software Developer working to protect and enhance business operations the connected world.
+I am a University of California, Berkeley alum with degrees in [EECS](http://www.eecs.berkeley.edu/) and Physics. In March 2015, I joined [BAE Systems Applied Intelligence](http://www.baesystems.com/ai) as a Software Developer working to protect and enhance business operations in the connected world.
 
 Previous working experiences:
 
