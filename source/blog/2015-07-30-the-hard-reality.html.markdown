@@ -20,4 +20,4 @@ I guess this is life. It’s not the school bubble. That’s why parents should 
 
 I’m not that hungry anymore, in the Steve Jobs sense. I’m satisfied with being a so-so now. I don’t feel like I need to go out there and prove myself to be somebody great. Sure, I check-in an honest day’s worth of code daily and push to get my job done well. But that drive for anything more is already somewhat spent, and isn’t yet replenished.
 
-Maybe there’s much value is just staying put somewhere for many years, be it in church, in a company, in the country, or while waiting on someone. Maybe there's much more to be discovered in more of the same.
+Maybe there’s much value in just staying put somewhere for many years, be it in church, in a company, in the country, or while waiting on someone. Maybe there's much more to be discovered in more of the same.
