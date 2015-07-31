@@ -14,10 +14,10 @@ In the dating scene, he's quite a flop. He puts all his eggs in one girl's baske
 
 In church, he goes through his motions. Because he knows someone has to do it eventually, and since he's one of the highlighted ones, he agrees to doing stuff in church. He feels it's his responsibility to take up church tasks and roles. He struggles to find the heart for it all.
 
+With what's going on in the country right now, he just feels helpless and tired. When will justice prevail in Malaysia? When can we be governed by sincere, honest people? He is resigned.
+
 I guess this is life. It’s not the school bubble. That’s why parents should allow their kids to just be normal. Don’t pressure them to perform. Be normal and not be a somebody in school. It might get in your head, and if you can’t live up to your own high school hype, you get disappointed. Though, looking back, it wasn’t really my parents who pressured me. I got into it myself.
 
 I’m not that hungry anymore, in the Steve Jobs sense. I’m satisfied with being a so-so now. I don’t feel like I need to go out there and prove myself to be somebody great. Sure, I check-in an honest day’s worth of code daily and push to get my job done well. But that drive for anything more is already somewhat spent, and isn’t yet replenished.
-
-With what's going on in the country right now, he just feels helpless and tired. When will justice prevail in Malaysia? When can we be governed by sincere, honest people? He is resigned.
 
 Maybe there’s much value is just staying put somewhere for many years, be it in church, in a company, in the country, or while waiting on someone. Maybe there's much more to be discovered in more of the same.
