@@ -11,4 +11,4 @@ To put it in perspective, the government's move to block Medium is not unlike a 
 
 Medium is valuable. It is a global platform of bright minds and ideas where the latest thoughts can be expressed in more than 140 characters. It is a place of technology and software development articles, of quirky topics, and of modern life. Malaysia gains nothing in blocking Medium, except to cause most of the *rakyat* to be more like a *katak di bawah tempurung*.
 
-Oh wait, but perhaps that was the intention in the first place.
+Oh wait, perhaps that was the intention in the first place.

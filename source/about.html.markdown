@@ -10,7 +10,8 @@ title: About | Jon ES Lin
 Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where I blog about life, software, and Christianity.
 I live in Petaling Jaya, Malaysia.
 
-I am a University of California, Berkeley alum with degrees in [EECS](http://www.eecs.berkeley.edu/) and Physics. In March 2015, I joined [BAE Systems Applied Intelligence](http://www.baesystems.com/ai) as a Software Developer working to protect and enhance business operations in the connected world.
+I am currently a front end Software Developer at [BAE Systems Applied Intelligence](http://www.baesystems.com/ai)
+where I work on complex front end applications that help combat financial crime.
 
 Previous working experiences:
 
@@ -21,7 +22,8 @@ as well as contributed to the development of Saved for iOS and Android, a budget
 
 During my downtime, I enjoy jogging, swimming, badminton, playing the guitar, hanging out with friends, writing, and reading.
 
-I am a Christian, having been saved by a God who unfailingly pursues me with his love and forgiveness.
+I am a Christian, saved by a God who unfailingly pursues me with his love and forgiveness.
 He gives me hope for a future while I struggle with the present.
 
 I can be contacted at the concatenation of "ernsheong", "@", and "gmail.com".
+You can also find me on [LinkedIn](https://my.linkedin.com/in/jonlinernsheong) and [@ernsheong](https://twitter.com/ernsheong).
