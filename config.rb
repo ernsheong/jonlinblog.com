@@ -65,20 +65,6 @@ end
 
 activate :directory_indexes
 
-aws_config = YAML::load(File.open('.s3_sync'))
-
-activate :s3_sync do |s3_sync|
-  s3_sync.bucket = 'jonlin.es'
-  s3_sync.region = 'ap-southeast-1'
-end
-
-activate :cloudfront do |cf|
-  cf.access_key_id = aws_config['aws_access_key_id']
-  cf.secret_access_key = aws_config['aws_secret_access_key']
-  cf.distribution_id = 'E2VSTOR9GCNVJM'
-  cf.filter = /\.html$/i
-end
-
 # Reload the browser automatically whenever files change
 # configure :development do
 #   activate :livereload
@@ -115,8 +101,4 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
-end
-
-after_s3_sync do |files_by_status|
-  invalidate files_by_status[:updated]
 end

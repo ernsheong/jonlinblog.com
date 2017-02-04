@@ -10,8 +10,12 @@ title: About | Jon ES Lin
 Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where I blog about life, software, and Christianity.
 I live in Petaling Jaya, Malaysia.
 
-I am currently a front end Software Developer at [BAE Systems Applied Intelligence](http://www.baesystems.com/ai)
-where I work on complex front end applications that help combat financial crime.
+I am currently a Software Engineer at [BAE Systems Applied Intelligence](http://www.baesystems.com/ai)
+where I have been working on single page apps for enterprise applications.
+
+In the medium term, I hope to work more on backend infrastructure challenges, including cloud computing (GCS/AWS), 
+large data processing, containerization, etc. I am open to challenging opportunities in the backend. Please contact me at 
+my email address below if you have something up my alley.
 
 Previous working experiences:
 
@@ -27,3 +31,4 @@ He gives me hope for a future while I struggle with the present.
 
 I can be contacted at the concatenation of "ernsheong", "@", and "gmail.com".
 You can also find me on [LinkedIn](https://my.linkedin.com/in/jonlinernsheong) and [@ernsheong](https://twitter.com/ernsheong).
+My resume is available upon request.
