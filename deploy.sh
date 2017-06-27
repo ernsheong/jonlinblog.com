@@ -1,1 +1,1 @@
-firebase deploy
+./build.sh && firebase deploy

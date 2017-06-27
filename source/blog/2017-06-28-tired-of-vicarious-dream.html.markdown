@@ -14,7 +14,7 @@ I had the last straw, and now I’m out. Out of my church, out of my workplace. 
 
 I decided to cut everything in my life that I was unhappy with. I’ve had enough of living someone else’s vicarious dream. Yes, mum, enough is enough.
 
-I studied in the US, and now I have to live like an stereotypical Asian? Cookie-cutter career all the way up the ladder to who-knows-where?
+I studied in the US, and now I have to live like a stereotypical Asian? Cookie-cutter career all the way up the ladder to who-knows-where?
 
 I was “big” in high school. “Most likely to succeed”, my school magazine said. I know of many high school friends who already have had much success with their ventures, and I am nowhere near that. I am just a nobody slogging for the corporation.
 
