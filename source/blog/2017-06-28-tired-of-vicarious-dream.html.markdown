@@ -20,7 +20,7 @@ I was “big” in high school. “Most likely to succeed”, my school magazine
 
 There’s that recent [article](http://time.com/money/4779223/valedictorian-success-research-barking-up-wrong/) that basically says: “High school valedictorians work in safe jobs and don’t achieve anything great.” I saw my trajectory and knew I was going to be another statistic.
 
-What’s next? I’m going to be working full-time on [PageDash](www.pagedash.com) for the next few months, and launch as soon as possible. The plan is to be profitable within 1-2 years and then work on something more ambitious, hopefully with a nimble and like-minded team. Is PageDash going to change the world? Probably not. But it’ll help make some lives better. And that is good enough for me. (DHH explains it better [here](https://signalvnoise.com/posts/3972-reconsider)).
+What’s next? I’m going to be working full-time on [PageDash](https://www.pagedash.com) for the next few months, and launch as soon as possible. The plan is to be profitable within 1-2 years and then work on something more ambitious, hopefully with a nimble and like-minded team. Is PageDash going to change the world? Probably not. But it’ll help make some lives better. And that is good enough for me. (DHH explains it better [here](https://signalvnoise.com/posts/3972-reconsider)).
 
 VCs can stay away because I hate everything that has to do with that startup culture around VCs, quick growth, growth hacking, etc. I’m here to build a software business. It may take years. It may go revenue-less or negative for some time. I don’t care. I want control, and the last thing I want is a VC barking down my neck telling me to double down on growth in the short-term.
 
