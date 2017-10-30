@@ -10,15 +10,11 @@ title: About | Jon ES Lin
 Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where I blog about life, software, and Christianity.
 I live in Petaling Jaya, Malaysia.
 
-I am currently a Software Engineer at [BAE Systems Applied Intelligence](http://www.baesystems.com/ai)
-where I have been working on single page apps for enterprise applications.
-
-In the medium term, I hope to work more on backend infrastructure challenges, including cloud computing (GCS/AWS), 
-large data processing, containerization, etc. I am open to challenging opportunities in the backend. Please contact me at 
-my email address below if you have something up my alley.
+I am developing [PageDash](https://www.pagedash.com) full-time. Check it out!
 
 Previous working experiences:
 
+- Front-end software engineer at [BAE Systems KL](http://www.baesystems.com), where I worked on enterprise applications.
 - Software consultant at [Belian Tech](http://beliantech.com), where I worked on Ruby on Rails apps. Currently a limited part-time effort.
 - Mobile software engineer at [Snappymob](https://www.snappymob.com). I helped churn out the Android and BlackBerry apps for The Malaysian Insider,
 as well as contributed to the development of Saved for iOS and Android, a budgeting and expenses app.
@@ -26,7 +22,7 @@ as well as contributed to the development of Saved for iOS and Android, a budget
 
 During my downtime, I enjoy jogging, swimming, badminton, playing the guitar, hanging out with friends, writing, and reading.
 
-I am a Christian, saved by a God who unfailingly pursues me with his love and forgiveness.
+I am a Christian, saved by a God who unfailingly pursues me with his love and forgiveness despite my failures.
 He gives me hope for a future while I struggle with the present.
 
 I can be contacted at the concatenation of "ernsheong", "@", and "gmail.com".
