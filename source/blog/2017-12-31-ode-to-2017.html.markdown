@@ -1,0 +1,37 @@
+---
+title: Ode to 2017
+tags: Life, Technology, Business
+---
+
+Impulsively, 2017 is one forgettable year. Introspetively, 2017 marks many turning points in my life.
+
+If I could redo 2017, I would probably have done a few things differently... in any case, let's choose to look at the achievements and positives for this year:
+
+- I launched [PageDash](https://www.pagedash.com), my first ever product completely developed on my own, from landing site, to web app, backend, devops, and Chrome/Firefox extension. A big shout out to Joanne for being PageDash's No. 1 Advocate when I have come so close to killing it because of my mental instability (yes, developing a product can mess with your sanity).
+- I launched [The Malaysian Pulse](https://themalaysianpulse.com) within a week of conceptualizing the idea. Super proud at the speed of development (compared to PageDash).
+- I've managed to (mentally and emotionally) survive for 6-months without a salary, even with low product sales.
+- I've increased in Golang proficiency by leaps and bounds. Golang enables me to keep my projects running at very low server cost. I've also learnt how to generate HTML templates with Go.
+- I've developed a web application using Polymer, i.e with custom elements and web components, while not succumbing to the React HYPE. I've also managed to figure out how to write browser extensions.
+- I've configured and deployed Docker applications.
+- I've learnt how difficult it is to market and get people to use and pay for a product. It forces you to be humble.
+- I've become a bit more realistic about developing products that people would pay for. (More willing to keep the day job)
+- I've avoided Bitcoin.
+- Somehow managed to keep [KualaLumpurJS](https://facebook.com/groups/KualaLumpurJS) running for another year.
+- Managed to end up in a more gospel-centered church.
+
+The negatives (lessons):
+
+- PageDash sales is quite bad. PageDash costed me RM50k+ in lost salary to develop, and the returns are merely a trickle. I'm going back to work in January 2018. Nobody wants to pay for your SaaS app. If it isn't darn good for a REAL BUSINESS NEED, it's dead.
+- I suck at marketing. I have not sent out any email blast to PageDash users and it's my own fault and grave.
+- Nobody cares about your lovely code. It's all about the product, stupid.
+- Your app is doing fine, but if you load on it your lofty financial ambitions, it puts too much pressure for it to perform. And chances are it won't. Keep projects side and stupid.
+- Burnt many bridges this year. It's a small world, don't burn bridges.
+- Going to a "better" church doesn't actually translate to "better" walk with God, especially when you have to carry along all that heavy baggage.
+- Life and the people around you is not going to go the way you want it to.
+- The people closest to you will disappoint you.
+- Ringgit sucks, but it's the only valuable thing you have to live on.
+- Losers go to work from 9 to 5. And so will I.
+- Hate working for people and using their undesirable tech stacks? Well suck it up, and work for people and their undesirable tech stacks.
+- BN will win next year. Dig it.
+
+Goodbye, 2017.
