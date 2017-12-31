@@ -10,7 +10,7 @@ title: About | Jon ES Lin
 Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where I blog about life, software, and Christianity.
 I live in Petaling Jaya, Malaysia.
 
-I am developing [PageDash](https://www.pagedash.com) full-time. Check it out!
+I am working a day job, but my real focus is on building products for myself and the world at [Belian Tech](https://beliantech.com).
 
 Previous working experiences:
 
