@@ -1,6 +1,6 @@
 ---
 title: Disdain for hype
-tags: Tech
+tags: tech, business, software
 ---
 
 I’ve come to realize that I have a disdain for hype.

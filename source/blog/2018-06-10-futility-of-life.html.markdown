@@ -1,6 +1,6 @@
 ---
 title: Futility of Life
-tags: Life
+tags: life
 ---
 
 Been down with viral chesty cough for the past one week.

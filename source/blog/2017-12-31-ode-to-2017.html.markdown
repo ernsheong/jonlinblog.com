@@ -1,6 +1,6 @@
 ---
 title: Ode to 2017
-tags: Life, Technology, Business
+tags: life, tech, business, software
 ---
 
 Impulsively, 2017 is one forgettable year. Introspetively, 2017 marks many turning points in my life.

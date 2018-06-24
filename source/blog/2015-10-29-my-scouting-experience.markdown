@@ -1,6 +1,6 @@
 ---
 title: My Scouting Experience
-tags: Life
+tags: life
 ---
 
 I was a scout for at least 8 years. To be fair, I'm an average scout. I missed out
@@ -31,7 +31,7 @@ outside of scouting, but being a scout does toughen you up to a certain degree. 
 couldn't stand the rigor, you'd probably have dropped out much earlier.
 
 One of the key lessons of scouting is when doing something I'd rather not do,
-say carrying heavy *bakau* in the hot sun back and forth repeatedly, or washing large and greasy pots
+say carrying heavy _bakau_ in the hot sun back and forth repeatedly, or washing large and greasy pots
 with a small tap, is to take things a step at a time. Just a step here and a step there,
 a pot here and a pot there, and eventually the job gets done. To me this is the
 greatest lesson that scouting has taught me, though I found out later that sometimes the hardest challenges

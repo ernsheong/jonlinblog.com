@@ -1,6 +1,6 @@
 ---
 title: What the Introvert Saw
-tags: Life
+tags: life
 ---
 
 Today, I visited my paternal grandparents – at the cemetery. I'm not sure why,

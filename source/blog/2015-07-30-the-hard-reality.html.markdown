@@ -1,6 +1,6 @@
 ---
 title: The Hard Reality
-tags: Life
+tags: life
 ---
 
 I graduated from high school in 2005. It's 2015. There's talk of a 10th year reunion. I would go, but only because I feel obliged to, as I was the Head Prefect. I don’t really want to, actually. I’ve nothing great to talk about since high school.

@@ -1,6 +1,6 @@
 ---
 title: Moving to Enterprise Software
-tags: work, software
+tags: work, software, business
 ---
 
 In my last semester of college (university, for those outside the US), I had the privilege and opportunity to learn Ruby on Rails (RoR)

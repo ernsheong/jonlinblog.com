@@ -1,11 +1,11 @@
 ---
 title: Living Dangerously
-tags: Life
+tags: life
 ---
 
 Most people live it safe. I'm not saying that they prefer stable jobs over entrepreneurship, but rather that they prefer to keep their time, money, and skills for themselves, rather than be generous with it. It might also be a preference for a stable job over one that has greater humanitarian or societal impact. Or it might be the reluctance to simply be generous with even our small change. We are afraid that we would lose out if we gave more of ourselves.
 
-What if we gave some money to *every* person who asks for donation or alms by the street? More often than not we tend not to glance at them, or walk quickly away, to avoid the guilt of not wanting to give some of what we have away. Well, I do.
+What if we gave some money to _every_ person who asks for donation or alms by the street? More often than not we tend not to glance at them, or walk quickly away, to avoid the guilt of not wanting to give some of what we have away. Well, I do.
 
 What if, instead of hanging out with friends in posh cafes and restaurants in Jalan Telawi, we spent time in charity homes or for good causes? I often do not even dare to venture giving my time to better causes, choosing instead the comfortable vicinity of friends and food, as well as keeping to my own little world of life habits.
 

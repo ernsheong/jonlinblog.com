@@ -1,6 +1,6 @@
 ---
 title: Tired
-tags: Technology, Business, Life
+tags: tech, business, life, software
 ---
 
 I’m tired of toeing the line. I’m tired of compromise. I’m tired of legalistic teaching.
