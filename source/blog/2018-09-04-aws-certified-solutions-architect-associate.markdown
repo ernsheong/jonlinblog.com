@@ -39,23 +39,23 @@ Areas and topics to cover from the top of my head (non-exhaustive). I can’t sa
 6. S3. Versioning. All the storage classes. Lifecycle policy.
 7. CloudFormation templates
 8. Lambda. Lambda. Lambda. Lambda integrations.
-9. API Gateway.
+9. API Gateway
 10. RDS. Aurora.
-11. CloudWatch. CloudWatch Logs
+11. CloudWatch, CloudWatch Logs
 12. CloudTrail
 13. Kinesis
 14. Redshift
-15. DynamoDB: Partition key, Throughput
-16. CodeDeploy, CodeCommit, CodeWhatever.
+15. DynamoDB: Partition key, Throughput, Best Practices
+16. CodeDeploy, CodeCommit, CodeWhatever. Get to know what they do at a high level.
 17. Encryption for S3, EBS, etc. Key management.
 18. Some other stuff
 
 Don’t memorize. The key is to get a hang of the stack and let common sense and understanding take over. Memorizing won’t get you very far.
 
-Questions got really tricky at the end. There were many scenarios. Note that some questions are dummies and do not count toward your final score (but you won’t know which ones). I recommend budgeting your time so that you can spend more time on the second half questions. You can use the “Flag” feature to go back to any earlier questions. You have 65 questions, 130 minutes. I found that I needed all of the time and even went back to change some answers, though some whizzes in the forums managed to finish in 60 minutes. Often there are 2 or even 3 close answers.
+Questions got really tricky at the end. There were many scenarios. Note that some questions are dummies and do not count toward your final score (but you won’t know which ones). I recommend budgeting your time so that you can spend more time on the second half questions. You can use the “Flag” feature to go back to any earlier questions. You have 65 questions, 130 minutes. I found that I needed all of the time and even went back to change some answers, though some whizzes in the forums managed to finish in 60 minutes. Often there are 2 or even 3 very close answers.
 
 **Good luck!**
 
-**Conclusion**: AWS is just complicated and complex. All the operational caveats and corner cases is delegated to the user. The offerings are widespread and impressive, but the operational simplicity is ostentatiously missing. On the other hand, Google Cloud Platform (GCP) offers less flexibility for the gain of simplicity and ease of operations. My next personal stop would be GCP’s Cloud Architect/Engineer certification. Till then.
+**Conclusion**: AWS is complicated and complex. All the operational caveats and corner cases is delegated to the user. The offerings are widespread and impressive, but operational simplicity is ostentatiously missing. On the other hand, Google Cloud Platform (GCP) offers less flexibility for the gain of simplicity and ease of operations. My next personal stop would be GCP’s Cloud Architect/Engineer certification. Till then!
 
-**Shameless plug**: I am working on [KanRails](kanrails.com), a workflow and pipeline management software for business processes. Sign up to get updates on launch!
+**Shameless plug**: I am working on [KanRails](https://kanrails.com), a workflow and pipeline management software for business processes. Sign up to get updates on launch!
