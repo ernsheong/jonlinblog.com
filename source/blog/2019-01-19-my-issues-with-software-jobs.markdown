@@ -42,7 +42,10 @@ But in the past it was a real downer when that happened too prematurely, it’s 
 
 ## I don’t want to start from scratch every month.
 
-Oops, no consulting companies please. I just don’t want to keep starting new projects every month. I think 70% of software companies are consulting in nature. There’s also consulting companies that have a core product which requires integration (consulting) to deploy to the customer. Personally, I see myself more as the person works on the core product itself, not the integrator role.
+Oops, no consulting companies please. I just don’t want to keep starting new projects every month. I think 70% of software companies are consulting in nature. There’s also consulting companies that have a core product which requires integration (consulting) to deploy to the customer. While that is somewhat better, personally I see myself more as the person works on the core product itself, not the integrator role.
+
+I prefer to work on the product in all it's gory depth and be accountable for its performance and reliability and how it helps the business' bottom line.
+
 
 <br/>
 <br/>
