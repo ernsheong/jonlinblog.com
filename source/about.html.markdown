@@ -10,10 +10,11 @@ title: About | Jon ES Lin
 Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where I blog about life, software, and maybe Christianity.
 I live in Petaling Jaya, Malaysia.
 
-I'm working a day job, but my real focus is on building products for myself and the world at [Belian Tech](https://beliantech.com). Check out [PageDash](https://www.pagedash.com), Your Digital Web Scrapbook and [The Malaysian Pulse](https://themalaysianpulse.com), Beat of the Nation.
+I am working on building products for myself and the world at [Belian Tech](https://beliantech.com). Check out [KanRails](https://kanrails.com), [PageDash](https://www.pagedash.com) and [The Malaysian Pulse](https://themalaysianpulse.com).
 
 Previous working experiences:
 
+- Software Engineer at [CoinGecko](https://www.coingecko.com)
 - Front-end Software Engineer at [BAE Systems KL](http://www.baesystems.com), where I worked on enterprise applications.
 - Software Consultant at [Belian Tech](http://beliantech.com), where I worked on Ruby on Rails apps.
 - Mobile Software Engineer at [Snappymob](https://www.snappymob.com). I helped churn out the Android and BlackBerry apps for The Malaysian Insider,
