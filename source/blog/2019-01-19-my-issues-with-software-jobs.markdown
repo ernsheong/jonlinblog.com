@@ -10,7 +10,7 @@ They are:
 
 1. <b>I don’t believe in your company’s mission.</b>
 1. <b>I believe in your mission, but your tech turns me off.</b>
-1. <b>The probability that a project will die, along with all the work done.</b>
+1. <b>The probability that your project will die, along with all the work done.</b>
 1. <b>I don’t want to start from scratch every month.</b>
 
 <br/>
@@ -32,7 +32,7 @@ I am perfectly fine with your company mission, but your tech stack repels me fro
 
 <br />
 
-## The probability that project will die, along with all the work done.
+## The probability that your project will die, along with all the work done.
 
 It’s not a zero sum game, a company can die and it doesn’t mean you didn’t learn anything that you couldn't take forward, and at least you got paid (handsomely, hopefully) in the time you were there, or you met great colleagues along the way. In the end, all code will eventually be rewritten.
 
