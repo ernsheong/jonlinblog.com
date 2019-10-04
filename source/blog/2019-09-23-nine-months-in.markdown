@@ -7,7 +7,7 @@ It's been nine months into my _third_ round of self-employment. The first time w
 
 ## Q1
 
-During the first 3 months, optimism is high. During this period, I mostly worked on [KanRails](https://www.kanrails.com). I upgraded my home office, installed an air-conditioner in my home office, and got new IKEA furniture, all worthwhile investments.
+During the first 3 months, optimism is high. During this period, I mostly worked on [KanRails](https://www.kanrails.com). I upgraded my home office, installed an air-conditioner in my home office, and got new IKEA furniture, all worthwhile investments. I also worked hard on a GCP Associate Cloud Architect course for Udemy, but I lost motivation right about the half-way mark; I chose too large a topic. In retrospect, I should have chosen a much smaller topic to create videos about.
 
 ## Q2
 
@@ -39,7 +39,7 @@ I explored other jobs as well. That's when I realized whatever dev skills and op
 
 ## What's Next
 
-I'm think I'm done with startups and freelancing for now. I am seeking to do cloud architecture work in larger companies (and learn to embrace AWS and Azure, as it were), if I can get the chance (I am currently interviewing in this path). I wish to fix my broken career, so far it's all over the place and lacking focus, I feel like I ended up nowhere, and going further like this no one will want to take me in for anything remotely senior.
+I'm think I'm done with startups and freelancing for now? I am seeking to do cloud architecture work in larger companies (and learn to embrace AWS and Azure, as it were), if I can get the chance (I am currently interviewing in this path). I wish to fix my broken career, so far it's all over the place and lacking focus, I feel like I ended up nowhere, and going further like this no one will want to take me in for anything remotely senior.
 
 I don't think it has been a waste of time, though, all this while I've coded full-stack (Rails), mobile applications (iOS and Android), front-end single page apps, backend (Golang), and geared toward cloud work (via much dabbling in GCP), and so by some fortunate turn of events I have a lot of breadth that may be very helpful in architecture and high-level work.
 
