@@ -10,7 +10,7 @@ title: About | Jon ES Lin
 Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where I blog about life, software, and maybe Christianity.
 I live in Petaling Jaya, Malaysia.
 
-I am working on building products for myself and the world at [Belian Tech](https://beliantech.com). Check out [KanRails](https://kanrails.com), [PageDash](https://www.pagedash.com) and [The Malaysian Pulse](https://themalaysianpulse.com).
+I have a day job, but I am also working on building products for myself and the world at [Belian Tech](https://beliantech.com). Check out [KanRails](https://kanrails.com), [PageDash](https://www.pagedash.com) and [The Malaysian Pulse](https://themalaysianpulse.com).
 
 Previous working experiences:
 
