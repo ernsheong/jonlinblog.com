@@ -1,6 +1,8 @@
 ---
 title: How to Live Stream your Church Service from Home
+description: How to live stream a church service to Facebook Live while at home on lockdown.
 tags: church, tech, software
+image: /images/livestream/my-setup-ff9f3ed3.jpg
 ---
 
 With the lockdown or Movement Control Order or whatever it is called in other parts of the world, meeting up as a group in church to stream to Facebook Live straight from your Facebook mobile app is not really an option anymore (**you shouldn't, really, #stayhome**).

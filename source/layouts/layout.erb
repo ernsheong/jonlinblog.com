@@ -12,6 +12,14 @@
 
     <!-- Use title if it's in the page YAML frontmatter -->
     <title><%= current_page.data.title || "Jonathan ES Lin" %></title>
+    <meta property="og:title" content="<%= current_page.data.title || 'Jonathan ES Lin' %>" />
+    <% if current_page.data.description.present? %>
+      <meta property="og:description" content="<%= current_page.data.description %>" />
+    <% end %>
+    <% if current_page.data.image.present? %>
+      <meta property="og:image" content="https://jonlin.es<%= current_page.data.image %>" />
+    <% end %>
+    <meta property="og:url" content="https://jonlin.es<%= current_page.url %>" />
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="/images/favicon.png" >
