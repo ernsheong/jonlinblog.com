@@ -1,5 +1,5 @@
 ---
-title: How to Live Stream Your Church Service From Home
+title: How to Live Stream your Church Service from Home
 tags: church, tech, software
 ---
 
