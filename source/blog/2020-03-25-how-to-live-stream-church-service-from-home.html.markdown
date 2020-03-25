@@ -89,7 +89,7 @@ Essentially what this does is channel your audio output into **both** iShowU Aud
 
 ### OBS Sources Setup
 
-So we have two external monitors. We need to configure both of them as Sources. Configure the left one as the "Slides Display", and the right one as the "Conference Display".
+So we have two external monitors. We need to configure both of them as Sources. Configure the left one as the "Presentation Display", and the right one as the "Conference Display".
 
 1. In OBS, under Sources, add a Display Capture source.
 <img src="/images/livestream/obs-display-capture.png" />
@@ -97,19 +97,19 @@ So we have two external monitors. We need to configure both of them as Sources. 
 <img src="/images/livestream/obs-setup-display-capture.png" />
 3. As you may be aware, in Google Meet there is this annoying perpetual UI on the top right and the bottom right that doesn't go away even when you move the mouse elsewhere. Zoom does not have this issue. You can manually transform the display to remove those parts:
 <img src="/images/livestream/obs-scale-display.png" />
-4. Repeat step 1-2 for the "Slides Display". Since this is a slides display, there is no need to scale the display.
+4. Repeat step 1-2 for the "Presentation Display". Since this is for slides, there is no need to scale the display.
 
 ### OBS Scenes Setup
 
 Essentially, we want to have three scenes (you can name it whatever you want, but probably something clear so you won't get confused):
 
-1. **Presentation Only** scene, which only displays the slides (go figure out such that PowerPoint displays slides on the left monitor when in presenter mode). ["Presentation Display"]
-2. **Conference Only** scene, which only displays the conference meeting in the right monitor (Google Meet). You should enter Full Screen mode in your meeting, so that the conference meeting takes up the entire screen.  ["Conference Display"]
-3. **Conference with Presentation** scene, which displays the conference meeting (right monitor) with the slides (left monitor) as an inset. ["Presentation Display" and "Conference Display"]
+1. **Presentation Only** scene, which only displays the slides (go figure out such that PowerPoint displays slides on the left monitor when in presenter mode). [Sources: "Presentation Display"]
+2. **Conference Only** scene, which only displays the conference meeting in the right monitor (Google Meet). You should enter Full Screen mode in your meeting, so that the conference meeting takes up the entire screen.  [Sources: "Conference Display"]
+3. **Conference with Presentation** scene, which displays the conference meeting (right monitor) with the slides (left monitor) as an inset. [Sources: "Presentation Display" and "Conference Display"]
 
 <img src="/images/livestream/obs-scenes.png" />
 
-*Conference with Presentation* scene in shown below, where the "Slides Display" is shown as an inset to the "Conference Display". You need to drag around the displays in this scene to position the "Slides Display" inside the "Conference Display":
+*Conference with Presentation* scene in shown below, where the "Presentation Display" is shown as an inset to the "Conference Display". You need to drag around the displays in this scene to position the "Presentation Display" inside the "Conference Display":
 <img src="/images/livestream/obs-conf-with-pre.png" />
 
 It really depends on what you want to achieve. Some churches may prefer showing just the slides while singing, in which you won't need the *Conference with Presentation* scene at all. In my case we only wanted this scene for the worship, because for the sermon part pastor will be speaking from right next to slides on his TV (*Conference Only* scene).
