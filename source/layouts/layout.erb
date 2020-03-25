@@ -18,6 +18,7 @@
     <% end %>
     <% if current_page.data.image.present? %>
       <meta property="og:image" content="https://jonlin.es<%= current_page.data.image %>" />
+      <meta name="twitter:card" content="summary_large_image"></meta>
     <% end %>
     <meta property="og:url" content="https://jonlin.es<%= current_page.url %>" />
 
