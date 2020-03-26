@@ -14,9 +14,9 @@ Fortunately, consumer technology has matured by leaps and bounds and there are o
 There are a couple of viable solutions for this:
 
 1. **Pre-record everything and edit/stitch the video together.** This requires video editing skills that is beyond the scope of this blog post. You can then upload the edited video to Facebook / YouTube on Sunday morning (which one depends on your church's social media strategy. Most churches will have a Facebook page, not YouTube.) This is the least risky solution, but it does not have the element of "live". People will know it is not live, so there is less of an urgency to "attend church together" online. However, it is a very viable option that should not be discarded too soon.
-2. **Pay Zoom** US$14.90/month to get past their 40-minute limit (with a 100-person limit), but you will also need to add an additional $40/month for their **Webinar** (100pax) feature, which allows you to allow anyone to view the "meeting" without joining the meeting (public link). Unfortunately, to go beyond 100pax, you need to pay $140/month to get the Webinar to support up to 500pax. You can then share the live meeting to as an url, or embed it on your church website. Most churches in Malaysia might not want to pay this much though, typically, but if you are willing to, then the job is done. If your church is way less than 100 pax, and you can teach everyone how to download Zoom and register for an account, then your problem may be solved with just $15/month (just be sure to mute the congregation).
+2. **Pay Zoom** US$14.90/month to get past their 40-minute limit (with a 100-person limit), but you will also need to add an additional $40/month for their **Webinar** (100 pax) feature, which allows you to allow anyone to view the "meeting" without joining the meeting (public link). Unfortunately, to go beyond 100 pax, you need to pay $140/month to get the Webinar to support up to 500 pax. You can then share the live meeting to as an url, or embed it on your church website. Most churches in Malaysia might not want to pay this much though, typically, but if you are willing to, then the job is done. If your church is way less than 100 pax, and you can teach everyone how to download Zoom and register for an account, then your problem may be solved with just $15/month (just be sure to mute the congregation).
 3. **Multiple Facebook Live sessions from multiple homes**. Your worship leader goes live, then ends the stream. Your pastor then goes live in a separate live stream. This is not ideal for obvious reasons, but it sort of works if you are short on technical help. You will kinda lose the flow, so maybe you wanna say, "We will be back at so and so time for the sermon, take a short break."
-4. **Single Facebook Live session from one person's home**. This only works if your preacher or someone in your preacher's home can lead worship acapella-style or with instrument, and then subsequently continue on to the sermon bit in the same stream. A drawback is that people get to see less faces on screen, and this may be a season where people just want to see more faces. But you can still get creative. Your pastor can stream solo next to a TV, and connect that TV to not just his slide deck but also do conference calls with others via the TV.
+4. **Single Facebook Live session from one person's home**. This works if your preacher or someone in your preacher's home can lead worship acapella-style or with instrument, and then subsequently continue on to the sermon bit in the same stream. A drawback is that people get to see less faces on screen, and this may be a season where people just want to see more faces. But you can still get creative. The preacher can stream solo next to a TV, and connect that TV to not just his slide deck but also do conference calls with others via the TV.
 5. **Use [OBS](https://obsproject.com/)** (free and open source software used for video recording and live streaming) to stream your continuous Zoom (if you paid $15/month) or Hangouts Meet (if you have GSuite) or Hangouts (consumer grade) meeting to Facebook Live (or Youtube Live), while switching the focus on different people seamlessly. As an added bonus, you can even super-impose lyrics slides in the video inset (or have the lyrics take up the entire screen). In this blog post, I will focus on how to do this, since this is the most technically challenging, but it arguably produces the most professional results, with the "live" effect.
 
 Above list is not exhaustive. Let me know your setup and I'll add it to the list!
@@ -62,10 +62,10 @@ Essentially what this does is channel your audio output into **both** iShowU Aud
 3. Open Settings > **Sound** > Output. Select **Multi-Output Device** as the device for sound output to actually use it.
 <img src="/images/livestream/sound-settings.png" />
 
-4. In my particular setup, I use Hangouts Meet (terrible name, I will just call it Google Meet) because Zoom requires a paid account to go beyond 40 minutes (officially), while I am already a paid GSuite user which gives me free use of Google Meet. In Google Meet, once you join there's a Settings dialog. Look for it and configure to the following, i.e. select **iShowU Audio Capture** in Speakers. If you leave it as Multi-Output Device it will cause echo, so don't. It should be similar for Zoom.
+4. In my particular setup, I use Hangouts Meet (terrible name, I will just call it Google Meet) because Zoom requires a paid account to go beyond 40 minutes (officially), while I am already a paid GSuite user which gives me free use of Google Meet. In Google Meet, once you join there's a Settings dialog. Look for it and configure to the following, i.e. select **iShowU Audio Capture** in Speakers. If you leave it as Multi-Output Device it will cause echo, so don't. It should be similar for Zoom. (**Note:** If you leave it in this setting without completing the following steps and have OBS open at the same time, you won't be able to hear anyone on the call! Common mistake, please keep in mind!)
 <img src="/images/livestream/meet-settings.png" />
 
-5. Open OBS, go to Settings > Audio. Configure **iShowU Audio Capture** as Audio 2. Usually Audio 1 is reserved for your built-in microphone, but in this case you are the techical guy, (probably) nobody wants to hear you in the stream, so might as well disable it just to be safe. Leave everything else as it is.
+5. Open OBS, go to Settings > Audio. Configure **iShowU Audio Capture** as Audio 2. Usually Audio 1 is reserved for your built-in microphone, but in this case you are the technical guy, (probably) nobody wants to hear you in the stream, so might as well disable it just to be safe. Leave everything else as it is.
 <img src="/images/livestream/obs-sound-settings.png" />
 
 6. Open up Mic 2's Advanced Audio Properties:
@@ -132,7 +132,7 @@ However, the *Presentation Only* scene is still useful to show a Welcome slide f
 5. Boom. **You are live!** If you want to play some background music, please don't play it off Apple Music or Spotify. Facebook will mute those parts of your stream due to copyright issues. Play something that is not strongly copyrighted. I'll leave it up to you to figure out what that means, or just don't play any background music.
 6. You may also choose to embed your live view into your church website. Copy and paste the iframe code. While this is quick and easy, the iframe will not show up nicely in mobile (the video will fit nicely, but it will have a huge chunk of white space below it because the iframe height is hardcoded). If you are particular, you can go to [Facebook for Developers](https://developers.facebook.com/docs/plugins/embedded-video-player/) and figure out how to embed the video in a much nicer way.
 <img src="/images/livestream/live-embed-code.png" />
-7. Keep quiet while recording. Otherwise Google Meet (or Zoom) might think you are trying to speak and pop up this bar. Which means you shouldn't sing along to the worship songs.
+7. Keep quiet while streaming. Otherwise Google Meet (or Zoom) might think you are trying to speak and pop up this bar. Which means you shouldn't sing along to the worship songs.
 <img src="/images/livestream/live-keep-quiet.png" />
 8. In the conference call, you may need to **present your screen** so that the worship leader can see it and stay in sync.
 9. To end the stream, click on **Stop Streaming** in OBS. However, since we unchecked *End live video if stream stops* in Facebook, we need to manually click on **End Live Video/Stream** in Facebook producer page (the red button), otherwise the live video never ends!
@@ -153,7 +153,7 @@ Just as with any technical topic, there are many things that can go wrong with t
 
 It is also pretty stressful recording the stream because of the possibility that things can (and will sometime) go wrong. But hey, we are living in interesting times now.
 
-Bulk up on your coffee (and go the the bathroom) before going live.
+Bulk up on coffee (and go to the bathroom) before going live.
 
 
 ### Licensing and Copyright
@@ -163,13 +163,13 @@ Regarding this issue, I'll just leave these two links here for your further read
 1. [https://worshipmatters.com/2020/03/24/feel-free-to-live-stream-our-songs/](https://worshipmatters.com/2020/03/24/feel-free-to-live-stream-our-songs/)
 2. [https://us.ccli.com/copyright-license/](https://us.ccli.com/copyright-license/)
 
-Strictly speaking, even presenting PowerPoint lyrics of a song your church didn't write (who here does?) requires a CCLI license.
+Strictly speaking, even presenting PowerPoint lyrics of a song your church didn't write (who here does?) requires a CCLI license. I would say (and don't quote me), explore and consider CCLI license for the long term, but don't worry about it too much right now when you just want to make things work for your church.
 
 ### Links to some equipment
 1. For the **shotgun mic** (for iPad/Android/iPhone), I got the [BOYA BY-A7H](https://www.lazada.com.my/products/i593972423.html) off Lazada. Well, make sure the device has an audio jack! (thanks, Apple). There is also a variant with the Lightning connector. Unfortunately if you use Lightning it means you can't use the mic and charge the phone at the same time without yet another adapter (grr, Apple). Unless you own an iPhone 11 and above, this shotgun mic should bring in a noticable improvement (I heard 11 has pretty good built-in microphone).
 2. For the **USB mic**, I got a [Marvo Scorpion mic-03](https://www.lazada.com.my/products/i743466818.html).  The Blue Yeti would be the ideal mic for this one, but short on time and money now :P
 
-Haven't use any of the mics for a live round at time of writing (the sample video below did not use this), we'll find out next week, but it should be way better than using the defaults. You should start somewhere (without mics), then see if you need to ramp up that quality on the following Sunday. Needless to say, your recording devices should be on full battery (ideally plugged in) before going live.
+Haven't used any of the mics above for a live round at time of writing (the sample video below did not use this, we'll find out next week), but it should be noticably better than using the defaults. You should start somewhere (without mics), then see if you need to ramp up that quality on the following Sunday. Needless to say, your recording devices should be on full battery (ideally plugged in) before going live.
 
 You need to make sure the online store you buy from is still shipping. I would message them first to ensure this. Some shops are not shipping until the end of the movement control period.
 
@@ -193,6 +193,5 @@ Discussion questions: https://drive.google.com/open?id=1QqVSUCw1IVoSuTwXmrjhRbdC
 Hope you have fun whilst serving your church community! If your church didn't manage to pull together a stream, you can join mine online at [icatmk.com/live](https://icatmk.com/live/) in the meantime. If you need to reach out to me for help or to ask questions, feel free to shoot me an email at ernsheong@gmail.com.
 
 Cheers.
-
 
 <img src="/images/livestream/my-setup.jpg" />
