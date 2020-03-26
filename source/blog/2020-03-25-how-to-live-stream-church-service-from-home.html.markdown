@@ -40,7 +40,7 @@ In this section, I will focus on how to setup OBS for the live stream. Your setu
 
 OBS is a desktop-based software that basically captures your screen(s) and your computer audio all at the same time, and channels it somewhere else (Facebook Live, YouTube Live, Twitch, etc.). You can even just use OBS to do a video recording, without streaming live. In our setup, we will capture what is shown on the two external monitors as well as computer audio, and mix them together into a stream, which OBS will then send to Facebook Live.
 
-One monitor will be used just to show PowerPoint slides, while the other monitor will be used to show a conference all. The worship leader, elder, pastor, whoever needs to be part of the service will dial in to this conference call. OBS is just recording everything as it happens.
+One monitor will be used just to show PowerPoint slides, while the other monitor will be used to show a conference call. The worship leader, elder, pastor, whoever needs to be part of the service will dial in to this conference call. OBS is just recording everything as it happens.
 
 ### Basic Setup
 
@@ -53,7 +53,7 @@ One monitor will be used just to show PowerPoint slides, while the other monitor
 
 The stream should hear everything you hear. So in order for you to do that we need to be able to channel what you hear into OBS. To achieve that you need to do the following:
 
-1. Download and install **[iShowU Audio Capture](https://support.shinywhitebox.com/hc/en-us/articles/204161459-Installing-iShowU-Audio-Capture-Mojave-and-earlier-)**. The install takes while... Unfortunately on the Mac we need this 3rd party software to channel the audio in Mac elsewhere, because it is not natively supported.
+1. Download and install **[iShowU Audio Capture](https://support.shinywhitebox.com/hc/en-us/articles/204161459-Installing-iShowU-Audio-Capture-Mojave-and-earlier-)**. The install takes awhile... (Unfortunately on the Mac we need this 3rd party software to channel the audio in Mac elsewhere, because it is not natively supported.)
 
 2. Open **Audio Midi Setup** on Mac, and **create a Multi-Output Device**. select **iShowU Audio Capture** as the **Master Device**. Configure as shown below:
 <img src="/images/livestream/audio-midi-setup.png" />
@@ -65,7 +65,7 @@ Essentially what this does is channel your audio output into **both** iShowU Aud
 4. In my particular setup, I use Hangouts Meet (terrible name, I will just call it Google Meet) because Zoom requires a paid account to go beyond 40 minutes (officially), while I am already a paid GSuite user which gives me free use of Google Meet. In Google Meet, once you join there's a Settings dialog. Look for it and configure to the following, i.e. select **iShowU Audio Capture** in Speakers. If you leave it as Multi-Output Device it will cause echo, so don't. It should be similar for Zoom.
 <img src="/images/livestream/meet-settings.png" />
 
-5. Open OBS, go to Settings > Audio. Configure **iShowU Audio Capture** as Audio 2. Usually Audio 1 is reserved for your built-in microphone, but in this case you are the techical guy, (probably) nobody wants to hear you, so might as well disable it just to be safe. Leave everything else as it is.
+5. Open OBS, go to Settings > Audio. Configure **iShowU Audio Capture** as Audio 2. Usually Audio 1 is reserved for your built-in microphone, but in this case you are the techical guy, (probably) nobody wants to hear you in the stream, so might as well disable it just to be safe. Leave everything else as it is.
 <img src="/images/livestream/obs-sound-settings.png" />
 
 6. Open up Mic 2's Advanced Audio Properties:
@@ -74,7 +74,7 @@ Essentially what this does is channel your audio output into **both** iShowU Aud
 7. Select **Monitor and Output** in Audio Monitoring. The purpose of this is so that OBS can channel back what it receives from **iShowU Audio Capture** back into the Monitor (your headphones) in addition to the Output, so that you can actually hear what your audience is hearing. Crucial, isn't it?
 <img src="/images/livestream/monitor-and-output.png" />
 
-8. Open up Mic 2's Filters
+8. Open up Mic 2's Filters:
 <img src="/images/livestream/filters-setup.png" />
 
 9. You can add **Noise Suppression** and **Compressor**, if you like. As you adjust, the incoming sound will change accordingly so you know the effects of what you are adjusting. But I think it is also fine to not have any filters.
@@ -97,7 +97,7 @@ So we have two external monitors. We need to configure both of them as Sources. 
 <img src="/images/livestream/obs-display-capture.png" />
 2. Configure the "Conference Display" source, pointing at the correct monitor (the right one). I would **uncheck Show Cursor** because no one really wants to see the mouse moving.
 <img src="/images/livestream/obs-setup-display-capture.png" />
-3. As you may be aware, in Google Meet there is this annoying perpetual UI on the top right and the bottom right that doesn't go away even when you move the mouse elsewhere. Zoom does not have this issue. You can manually transform the display to remove those parts:
+3. As you may be aware, in Google Meet there is this annoying perpetual UI on the top right and the bottom left that doesn't go away even when you move the mouse elsewhere. Zoom does not have this issue. You can manually transform the display to remove those parts:
 <img src="/images/livestream/obs-scale-display.png" />
 4. Repeat step 1-2 for the "Presentation Display". Since this is for slides, there is no need to scale the display.
 
@@ -135,6 +135,7 @@ However, the *Presentation Only* scene is still useful to show a Welcome slide f
 7. Keep quiet while recording. Otherwise Google Meet (or Zoom) might think you are trying to speak and pop up this bar. Which means you shouldn't sing along to the worship songs.
 <img src="/images/livestream/live-keep-quiet.png" />
 8. In the conference call, you may need to **present your screen** so that the worship leader can see it and stay in sync.
+9. To end the stream, click on **Stop Streaming** in OBS. However, since we unchecked *End live video if stream stops* in Facebook, we need to manually click on **End Live Video/Stream** in Facebook producer page (the red button), otherwise the live video never ends!
 
 ## Variants
 
@@ -170,6 +171,8 @@ Strictly speaking, even presenting PowerPoint lyrics of a song your church didn'
 
 You need to make sure the online store you buy from is still shipping. I would message them first to ensure this. Some shops are not shipping until the end of the movement control period.
 
+To pass the mic from place to place each week (e.g. if you rotate worship leaders), you can try Grab's Delivery option.
+
 ### Sample Output
 A first try resulted in the following stream last Sunday (default laptop and mobile device mics):
 
@@ -185,7 +188,7 @@ POST-Service links:
 Zoom meeting: https://us04web.zoom.us/j/344087654
 Discussion questions: https://drive.google.com/open?id=1QqVSUCw1IVoSuTwXmrjhRbdCUAaXKv_D</p>Posted by <a href="https://www.facebook.com/ICatMK/">International Church at Mont Kiara</a> on Saturday, 21 March 2020</blockquote></div>
 
-Hope you have fun whilst serving your church community! If your church didn't manage to pull together a stream, you can join mine online at [icatmk.com/live](https://icatmk.com/live) in the meantime. If you need to reach out to me for help or to ask questions, feel free to shoot me an email at ernsheong@gmail.com.
+Hope you have fun whilst serving your church community! If your church didn't manage to pull together a stream, you can join mine online at [icatmk.com/live](https://icatmk.com/live/) in the meantime. If you need to reach out to me for help or to ask questions, feel free to shoot me an email at ernsheong@gmail.com.
 
 Cheers.
 
