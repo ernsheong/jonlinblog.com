@@ -89,6 +89,9 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: $text-font-size;
 
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
   p, li {
     line-height: $text-font-size * 1.8;
     margin-bottom: $text-font-size * 0.8;
