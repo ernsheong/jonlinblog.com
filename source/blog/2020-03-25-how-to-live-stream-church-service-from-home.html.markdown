@@ -166,12 +166,14 @@ Regarding this issue, I'll just leave these two links here for your further read
 Strictly speaking, even presenting PowerPoint lyrics of a song your church didn't write (who here does?) requires a CCLI license.
 
 ### Links to some equipment
-1. For the **shotgun mic** (for iPad), I got the [BOYA BY-A7H](https://www.lazada.com.my/products/i593972423.html) off Lazada. Well, make sure the device has an audio jack! (thanks, Apple). There is also a variant with the Lightning connector. Unfortunately that means you can't use the mic and charge the phone at the same time without yet another adapter (grr, Apple). Unless you own an iPhone 11 and above, this shotgun mic should bring in a noticable improvement.
-2. For the **USB mic**, I got a [Marvo Scorpion mic-03](https://www.lazada.com.my/products/i743466818.html). Haven't use any of the mics for a live round at time of writing (the sample video below did not use this), we'll find out next week, but it should be way better than using the default laptop mic.
+1. For the **shotgun mic** (for iPad/Android/iPhone), I got the [BOYA BY-A7H](https://www.lazada.com.my/products/i593972423.html) off Lazada. Well, make sure the device has an audio jack! (thanks, Apple). There is also a variant with the Lightning connector. Unfortunately if you use Lightning it means you can't use the mic and charge the phone at the same time without yet another adapter (grr, Apple). Unless you own an iPhone 11 and above, this shotgun mic should bring in a noticable improvement (I heard 11 has pretty good built-in microphone).
+2. For the **USB mic**, I got a [Marvo Scorpion mic-03](https://www.lazada.com.my/products/i743466818.html).  The Blue Yeti would be the ideal mic for this one, but short on time and money now :P
+
+Haven't use any of the mics for a live round at time of writing (the sample video below did not use this), we'll find out next week, but it should be way better than using the defaults. You should start somewhere (without mics), then see if you need to ramp up that quality on the following Sunday.
 
 You need to make sure the online store you buy from is still shipping. I would message them first to ensure this. Some shops are not shipping until the end of the movement control period.
 
-To pass the mic from place to place each week (e.g. if you rotate worship leaders), you can try Grab's Delivery option.
+To pass the mic from place to place each week (e.g. if you rotate worship leaders), you can try Grab's Delivery option (slightly pricey).
 
 ### Sample Output
 A first try resulted in the following stream last Sunday (default laptop and mobile device mics):
