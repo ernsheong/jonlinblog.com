@@ -145,6 +145,7 @@ Let's explore some possible variants to this setup.
 3. **0 external monitors**. This is not recommended, but you can get OBS to record your current laptop screen, then switch to slides presenter mode while leaving OBS in the background. Then switch to conference mode. People may be able to see what you are doing, but is that really a problem?
 4. **YouTube Live**. The same exact steps should apply, you just need to put the YouTube stream key and point the stream output to YouTube in OBS.
 5. **Zoom**. Zoom should work just fine. However, I felt that audio and video quality is not as good as Google Meet. Particularly, if someone is streaming from a mobile device, the Zoom video won't take the entire width of my monitor. Plus, you need to remember to pay otherwise your meeting may get cut off at 40 minutes.
+6. **Pre-recording**. With the OBS setup, you can even choose to pre-record some parts of the service, especially the worship session, to preserve the quality of the audio (because Zoom and Google Meet software are optimized for voice audio). Also, some members of the church who need to appear in the stream may not have a good internet connection at home. Mix and match OBS setup with pre-recording as you see fit.
 
 ## Summary
 
