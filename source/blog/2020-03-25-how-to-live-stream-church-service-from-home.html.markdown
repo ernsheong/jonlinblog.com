@@ -57,9 +57,11 @@ The stream should hear everything you hear. So in order for you to do that we ne
 2. Open **Audio Midi Setup** on Mac, and **create a Multi-Output Device**. select **iShowU Audio Capture** as the **Master Device**. Configure as shown below:
 <img src="/images/livestream/audio-midi-setup.png" />
 Essentially what this does is channel your audio output into **both** iShowU Audio Capture and the Built-in Output (your headphones, if you like).
+**UPDATE:** This step probably isn't necessary if you use OBS to output monitor audio (below)
 
 3. Open Settings > **Sound** > Output. Select **Multi-Output Device** as the device for sound output to actually use it.
 <img src="/images/livestream/sound-settings.png" />
+**UPDATE:** This step probably isn't necessary if you use OBS to output monitor audio (below)
 
 4. In my particular setup, I use Hangouts Meet (terrible name, I will just call it Google Meet) because Zoom requires a paid account to go beyond 40 minutes (officially), while I am already a paid GSuite user which gives me free use of Google Meet. In Google Meet, once you join there's a Settings dialog. Look for it and configure to the following, i.e. select **iShowU Audio Capture** in Speakers. If you leave it as Multi-Output Device it will cause echo, so don't. It should be similar for Zoom. (**Note:** If you leave it in this setting without completing the following steps and have OBS open at the same time, you won't be able to hear anyone on the call! Common mistake, please keep in mind!)
 <img src="/images/livestream/meet-settings.png" />
@@ -146,6 +148,7 @@ Let's explore some possible variants to this setup.
 4. **YouTube Live**. The same exact steps should apply, you just need to put the YouTube stream key and point the stream output to YouTube in OBS.
 5. **Zoom**. Zoom should work just fine. However, I felt that audio and video quality is not as good as Google Meet. Particularly, if someone is streaming from a mobile device, the Zoom video won't take the entire width of my monitor. Plus, you need to remember to pay otherwise your meeting may get cut off at 40 minutes.
 6. **Pre-recording**. With the OBS setup, you can even choose to pre-record some parts of the service, especially the worship session, to preserve the quality of the audio (because Zoom and Google Meet software are optimized for voice audio). Also, some members of the church who need to appear in the stream may not have a good internet connection at home. Mix and match OBS setup with pre-recording as you see fit.
+7. By default, OBS uses the **x264** encoder (software-based). This will cause OBS to be quite CPU-intensive. In Settings > Output > Streaming > Encoder, you can switch to *Apple VT H264 Hardware Encoder* (if you have it) to save A LOT of CPU cycles (your CPU won't even break a sweat with this).
 
 ## Summary
 
