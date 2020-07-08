@@ -12,7 +12,7 @@ I also managed to start a GCP newsletter called [GCP Digest](https://gcpdigest.c
 
 I also started work on Readerize, potentially an alternative to Feedly and Google Reader. It's still in 70% development, but frankly I am lacking the big motivational push to launch it. I fear it may be another PageDash, i.e. a failure.
 
-PageDash, my first product, is taking in about RM2000 per year, which is really nothing. Honestly, I am still mulling if I should retire the service.
+PageDash, my first product, is taking in about RM2000 per year, which is really nothing. Honestly, I am still mulling if I should retire the service. I tried adding Japanese localization earlier this year, expecting an uptick in Japanese users, but that didn't happen.
 
 FindTutor.my is yet another distraction that I started during my previous self-employment stint. It is actually bringing in some money, but to me it is just a distraction. I don't really want to be a tutor agent. Somehow it was an accidental business opportunity that kinda got traction. Ironically, it brought in more revenue compared to all my software stuff.
 
@@ -20,9 +20,11 @@ KanRails is still my pet project. It is trying to compete with the likes of Mond
 
 "What do I want?" is the perennial question. After all, something is really wrong when I came out in self-employment not once or twice but FOUR TIMES!
 
-I have been doing some freelance gigs recently, with potentially more in the pipeline. But I honestly don't really see myself shuffling around from project to project in freelance consulting mode. I don't really care if the freelance pay is 2x my salary. Something is just missing for me from the freelance equation.
+Working for people is fine, until you stop resonating with the product, or what you signed up for changes dramatically, or until something in the company really irks you to no end. The COVID episode really unveiled how much my previous employer cared about people: working from home arrangements were a taboo topic! You can continue to suck it up, or you can count the cost and move on.
 
-I am hoping to get a job (again), but this time I do not want to code on the job. Coding is just tiring and repetitive. Let the younger ones do it. I am hoping to be a cloud architect, and do system design. But I also loathe to work with AWS and Azure. GCP would be awesome, but there are so few options out there. What can I do, then?
+I have been doing some freelance gigs recently, with potentially more in the pipeline. But I honestly don't really see myself shuffling around from project to project in freelance consulting mode. I don't really care if the freelance pay is 2x my salary. Something is just missing for me from the freelance equation. Maybe the phrase I am looking for is _deep contribution_. Freelance is just touch and go.
+
+I am hoping to get a job (again), but this time I do not want to code on the job. Coding is just tiring and repetitive. Let the younger ones do it. I am hoping to be a cloud architect, and do system design. But I also loathe to work with AWS and Azure. GCP would be awesome, but there are so few opportunities for GCP here in Malaysia. What can I do, then?
 
 So, back to the question, what do I want? I was hoping to achieve product success, build something people want, get paid handsomely for it, hire a team, grow the product, get an office, etc. But looks like all that is just a pipe dream. Secondarily, I think if I can work my way toward being an enterprise architect focusing on GCP, that would be great. Maybe one day I'll come to terms with working with AWS/Azure, as there is just no choice if one wants to survice this route in the long term.
 
