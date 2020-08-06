@@ -10,7 +10,7 @@ title: About | Jon ES Lin
 Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where I blog about life, software, and maybe Christianity.
 I live in Petaling Jaya, Malaysia.
 
-I am self-employed, working on building products for myself and the world at [Belian Tech](https://beliantech.com). Check out [KanRails](https://kanrails.com) and [PageDash](https://www.pagedash.com), as well as some of my books sold on [Gumroad](https://gumroad.com/joncloudgeek).
+I am a Cloud Architect at [some enterprise — undisclosed for now]. Formerly self-employed (multiple times) working on building products for myself and the world at [Belian Tech](https://beliantech.com). Check out [KanRails](https://kanrails.com) and [PageDash](https://www.pagedash.com), as well as some of my books sold on [Gumroad](https://gumroad.com/joncloudgeek).
 
 Previous working experiences:
 
