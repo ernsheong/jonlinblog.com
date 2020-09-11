@@ -29,6 +29,10 @@ The AMD CPU stock cooler performed miserably. In-game temperatures while playing
 
 I simply did not cheap out on the fundamentals. The mid-tier AMD Ryzen 5 3600, along with 16GB 3200MHz DDR4 RAM and the GeForce RTX 2060 graphics card (albeit from a cheaper Zotac variant), ensures that the build will be good enough for the next 10 years or so.
 
+## Overclock
+
+I managed to overclock the CPU with the help of the MSI B450 Gaming Plus Max BIOS. My current overclock limit is at 4.4GHz, I could not push past that without experiencing instability. Given that I'm typing this on a 2.5GHz 2014 MBP, 4.4GHz is actually quite awesome as far as raw CPU speeds goes.
+
 ## Price list
 
 In total, the build costed **RM3588**, which is a very respectable price for the spec that I am getting.
