@@ -31,11 +31,11 @@ I simply did not cheap out on the fundamentals. The mid-tier AMD Ryzen 5 3600, a
 
 ## Overclock
 
-I managed to overclock the CPU with the help of the MSI B450 Gaming Plus Max BIOS. My current overclock limit is at 4.4GHz, I could not push past that without experiencing instability. Given that I'm typing this on a 2.5GHz 2014 MBP, 4.4GHz is actually quite awesome as far as raw CPU speeds goes.
+I managed to overclock the CPU with the help of the MSI B450 Gaming Plus Max BIOS. My current overclock limit is at 4.4GHz, I could not push past that without experiencing instability. Given that I'm typing this on a 2.5GHz 2014 MBP, 4.4GHz is actually quite awesome as far as raw CPU speed goes.
 
 ## Price list
 
-In total, the build costed **RM3588**, which is a very respectable price for the spec that I am getting.
+In total, the build costed **RM3588 (865 USD)**, which is a very respectable price for the spec that I am getting.
 
 <iframe src="https://docs.google.com/spreadsheets/d/1i381DPt6rj8Ayh1njieCOU6wulstVbYAYGLmYxeUz1U/gviz/tq?tqx=out:html&tq&gid=0" style="width: 100%; height:350px;"></iframe>
 <center><small>Price list for my first PC build.</small></center>
@@ -44,7 +44,7 @@ In total, the build costed **RM3588**, which is a very respectable price for the
 
 As an aside, I think playing CoD games have been good for me. It helps me to develop perseverance. When I started playing CoD Warzone / Modern Warfare, I was getting killed left and right out of nowhere. After a while, I progressed from the bottom of the game leaderboard, up toward the middle, and sometimes at the top. I still suck badly, but it doesn't matter, I view it as continuous improvement.
 
-I would like to carry this type of attitude towards life. Badminton also helps me develop this kind of tenacity. I have been doing very badly in badminton games. But instead of quitting the game or feeling angry, applying the same principles of trying and trying again has helped me to improve in badminton recently.
+I would like to carry this type of attitude towards life. Badminton also helps me develop this kind of tenacity. I have been doing rather badly in badminton games. But instead of quitting the game or feeling angry with myself, applying the same principle of trying and trying again has helped me to improve significantly in badminton recently.
 
 I hope to apply this to more tangible areas in life such as in career and church (dealing with difficult people who make you want to quit), and in building software worth paying for (KanRails, PageDash, etc.). If I improve enough, maybe I can help make Malaysia great again, from a software domination perspective!
 
