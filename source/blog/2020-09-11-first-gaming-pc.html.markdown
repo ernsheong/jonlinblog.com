@@ -48,4 +48,6 @@ I would like to carry this type of attitude towards life. Badminton also helps m
 
 I hope to apply this to more tangible areas in life such as in career and church (dealing with difficult people who make you want to quit), and in building software worth paying for (KanRails, PageDash, etc.). If I improve enough, maybe I can help make Malaysia great again, from a software domination perspective!
 
-And well, some Christians reading this will disapprove of my playing computer games. My response is to mind your own business and mind your legalism!
+Additionally, in Call of Duty it is indeed heart-dropping to suddenly encounter an enemy out of nowhere while you are running around, or even just the expectation of that. Many things in life, including conflicts with people in general, are to me rather heart-dropping and anxiety-ridden. FPS games like CoD train me to cope better in real-life anxiety situations.
+
+And well, some Christians reading this will still disapprove of my playing computer games. My response is to mind your own business and mind your legalism!
