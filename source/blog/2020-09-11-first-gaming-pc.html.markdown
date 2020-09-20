@@ -38,7 +38,7 @@ I managed to overclock the CPU with the help of the MSI B450 Gaming Plus Max BIO
 
 In total, the build costed **RM3588 (865 USD)**, which is a very respectable price for the spec that I am getting.
 
-<iframe src="https://docs.google.com/spreadsheets/d/1i381DPt6rj8Ayh1njieCOU6wulstVbYAYGLmYxeUz1U/gviz/tq?tqx=out:html&tq&gid=0" style="width: 100%; height:325px;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1i381DPt6rj8Ayh1njieCOU6wulstVbYAYGLmYxeUz1U/gviz/tq?tqx=out:html&tq&gid=0" style="width: 100%; height:345px;"></iframe>
 <center><small>Price list for my first PC build.</small></center>
 
 ## Why you should play computer games

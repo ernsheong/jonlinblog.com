@@ -11,7 +11,7 @@
     </article>
     <div class="tags">
       <% current_article.tags.each do |tag| %>
-        <button class="uk-button" type="button"><%= link_to tag, "/tags/#{tag.downcase}" %></button>
+        <button class="p-2 border text-gray-400 hover:bg-gray-200 text-sm" type="button"><%= link_to tag, "/tags/#{tag.downcase}" %></button>
       <% end %>
     </div>
   </div>

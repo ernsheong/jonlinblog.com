@@ -190,7 +190,7 @@ Please stay on with us, we will be begin the service at 10.30am. Slides will be 
 
 POST-Service links:
 Zoom meeting: https://us04web.zoom.us/j/344087654
-Discussion questions: https://drive.google.com/open?id=1QqVSUCw1IVoSuTwXmrjhRbdCUAaXKv_D</p>Posted by <a href="https://www.facebook.com/ICatMK/">International Church at Mont Kiara</a> on Saturday, 21 March 2020</blockquote></div>
+Discussion questions: https://drive.google.com/open?id=1QqVSUCw1IVoSuTwXmrjhRbdCUAaXKv_D</p>Posted by <a href="https://www.facebook.com/ICatMK/">International Church at Mont Kiara</a> on Saturday, 21 March 2020</blockquote></div>&nbsp;
 
 Hope you have fun whilst serving your church community! If your church didn't manage to pull together a stream, you can join mine online at [icatmk.com/live](https://icatmk.com/live/) in the meantime. If you need to reach out to me for help or to ask questions, feel free to shoot me an email at ernsheong@gmail.com.
 

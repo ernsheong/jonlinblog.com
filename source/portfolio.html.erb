@@ -49,22 +49,13 @@ title: Portfolio | Jon ES Lin
 
 <% data.mobile_apps.each do |app| %>
   <!-- App row -->
-  <div class="uk-grid project">
-    <div class="uk-width-medium-2-10 uk-width-3-10 icon">
-      <img src="<%= app.image %>" width="100px;"/>
+  <div class="flex project items-center">
+    <div class="mr-4 icon">
+      <img src="<%= app.image %>" width="80px;"/>
     </div>
-    <div class="uk-width-medium-8-10 uk-width-7-10">
+    <div class="">
       <div class="title"><%= app.title %></div>
-      <div class="description"><%= app.description %></div>
-      <% if app.android %>
-        <button class="uk-button download-button" type="button"><a href="<%= app.android %>">Android</a></button>
-      <% end %>
-      <% if app.ios %>
-        <button class="uk-button download-button" type="button"><a href="<%= app.ios %>">iOS</a></button>
-      <% end %>
-      <% if app.blackberry %>
-        <button class="uk-button download-button" type="button"><a href="<%= app.blackberry %>">BlackBerry</a></button>
-      <% end %>
+      <div class="description">(deprecated) <%= app.description %></div>
     </div>
   </div>
 <% end %>
