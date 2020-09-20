@@ -27,17 +27,21 @@
 
     <!-- Font Awesome via CDN -->
     <link href='//fonts.googleapis.com/css?family=Open+Sans:400italic,600,400' rel='stylesheet' type='text/css'>
-    <%= stylesheet_link_tag "uikit.almost-flat.min", "all" %>
+    <%= stylesheet_link_tag "all" %>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.8.10/tailwind.min.css" integrity="sha512-KO1h5ynYuqsFuEicc7DmOQc+S9m2xiCKYlC3zcZCSEw0RGDsxcMnppRaMZnb0DdzTDPaW22ID/gAGCZ9i+RT/w==" crossorigin="anonymous" />
     <%= javascript_include_tag  "all" %>
   </head>
 
   <body class="<%= page_classes %>">
     <%= partial :header %>
 
-    <div class="uk-container uk-container-center">
-      <div class="uk-container-center uk-width-large-4-6 page-container">
-        <%= yield %>
-        <%= partial :footer %>
+    <div class="container mx-auto px-6 sm:px-12 md:px-16 lg:px-32">
+      <div class="uk-container uk-container-center">
+        <div class="uk-container-center uk-width-large-4-6 page-container">
+          <%= yield %>
+
+          <%= partial :footer %>
+        </div>
       </div>
     </div>
   </body>

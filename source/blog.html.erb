@@ -3,23 +3,23 @@ title: Archive | Jon ES Lin
 ---
 
 <div class="archive-page">
-  <h1 class="title">Blog Archive</h1>
+  <h1 class="title mb-4">Blog Archive</h1>
   <% blog.articles.group_by {|a| a.date.year }.each do |year, year_articles| %>
     <!-- Year -->
     <h2 class="year"><%= year %></h2>
 
     <% year_articles.group_by {|a| a.date.month }.each do |month, month_articles| %>
       <!-- Month -->
-      <h3 class="month"><%= month_articles.first.date.strftime("%B") %></h3>
+      <h3 class="month my-4"><%= month_articles.first.date.strftime("%B") %></h3>
 
       <!-- Month Article List -->
-      <div class="month-article-list">
+      <div class="month-article-list my-6">
         <% month_articles.each do |month_article| %>
-          <div class="article-row uk-grid">
-            <div class="uk-width-1-5">
-              <span class="uk-h4 day"><%= month_article.date.strftime("%-d") %></span>
+          <div class="my-3 flex">
+            <div class="mr-4 w-16 text-left w-1/5">
+              <span class="day"><%= month_article.date.strftime("%-d") %></span>
             </div>
-            <div class="uk-width-4-5">
+            <div class="w-4/5">
               <a href="<%= month_article.url %>"><%= month_article.title %></a>
             </div>
           </div>

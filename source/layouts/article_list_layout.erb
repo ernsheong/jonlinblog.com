@@ -1,9 +1,9 @@
 <% wrap_layout :layout do %>
   <%= yield_content :top %>
 
-  <% page_articles.each do |article| %>
-    <div class="article-preview">
-      <h1 class="title"><%= link_to article.title, article %></h1>
+  <% page_articles.each_with_index do |article, idx| %>
+    <div class="article-preview <%= idx == 0 ? '' : 'mt-8' %> pb-8 border-b">
+      <h1 class="title hover:underline"><%= link_to article.title, article %></h1>
       <div class="date"><%= article.date.strftime('%b %e, %Y') %></div>
 
       <div class="text">
@@ -16,5 +16,5 @@
     </div>
   <% end %>
 
-  <div class="archive-link uk-text-center"><%= link_to "Blog Archive", "/blog" %></div>
+  <div class="mt-12 text-center"><%= link_to "Blog Archive", "/blog" %></div>
 <% end %>

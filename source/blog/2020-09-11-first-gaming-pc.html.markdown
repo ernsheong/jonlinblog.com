@@ -15,6 +15,7 @@ Here are some pictures of the initial build:
 <img src="/images/gaming-pc/full-side-view.jpg" />
 
 <img src="/images/gaming-pc/side-view.jpg" />
+<center class="block mb-6"><small>Internals of the build.</small></center>
 
 ## Resolving issues with my build
 
@@ -25,7 +26,7 @@ I also fell back on a lower-grade PSU (White), but SilverStone seems like a reli
 The AMD CPU stock cooler performed miserably. In-game temperatures while playing Warzone were as high as 94°C which is almost unacceptable and downright worrying. Hence I decided to get a relatively cheap **CoolerMaster Hyper 212 LED Turbo**, which performed admirably for the price point. In-game temperatures were brought down to as high as 85+°C, but it hovered mostly in the 60-70+°C range 80% of the time.
 
 <img src="/images/gaming-pc/cooler-master-cpu-cooler.jpg" />
-<center><small>The CoolerMaster Hyper 212 LED Turbo CPU cooler.</small></center>
+<center class="block mb-6"><small>The CoolerMaster Hyper 212 LED Turbo CPU cooler.</small></center>
 
 I simply did not cheap out on the fundamentals. The mid-tier AMD Ryzen 5 3600, along with 16GB 3200MHz DDR4 RAM and the GeForce RTX 2060 graphics card (albeit from a cheaper Zotac variant), ensures that the build will be good enough for the next 10 years or so.
 
@@ -37,7 +38,7 @@ I managed to overclock the CPU with the help of the MSI B450 Gaming Plus Max BIO
 
 In total, the build costed **RM3588 (865 USD)**, which is a very respectable price for the spec that I am getting.
 
-<iframe src="https://docs.google.com/spreadsheets/d/1i381DPt6rj8Ayh1njieCOU6wulstVbYAYGLmYxeUz1U/gviz/tq?tqx=out:html&tq&gid=0" style="width: 100%; height:350px;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1i381DPt6rj8Ayh1njieCOU6wulstVbYAYGLmYxeUz1U/gviz/tq?tqx=out:html&tq&gid=0" style="width: 100%; height:325px;"></iframe>
 <center><small>Price list for my first PC build.</small></center>
 
 ## Why you should play computer games
@@ -51,3 +52,9 @@ I hope to apply this to more tangible areas in life such as in career and church
 Additionally, in Call of Duty it is indeed heart-dropping to suddenly encounter an enemy out of nowhere while you are running around, or even just the expectation of that. Many things in life, including conflicts with people in general, are to me rather heart-dropping and anxiety-ridden. FPS games like CoD train me to cope better in real-life anxiety situations.
 
 And well, some Christians reading this will still disapprove of my playing computer games. My response is to mind your own business and mind your legalism!
+
+<style>
+  img {
+    max-width: 450px;
+  }
+</style>
