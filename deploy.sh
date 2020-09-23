@@ -1,1 +1,1 @@
-./build.sh && firebase deploy
+./build.sh && firebase deploy --token "$(cat .secret/token)"

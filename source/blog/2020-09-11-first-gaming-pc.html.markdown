@@ -4,11 +4,14 @@ description: I finally built my first gaming PC!
 tags: pc, gaming, life
 ---
 
+<img class="hero" src="/images/gaming-pc/lined-up.jpg" />
+<center class="block mb-6"><small>On your marks...</small></center>
+
 ## Building my first PC
 
 At the ripe age of 32, I finally built my first gaming PC! Is this a quarter or mid-life crisis?
 
-I started playing Call of Duty Mobile on iOS during the lockdown period, as a way to kill time (and escape from the dark realities of self-employment). I found myself winning the CoD Mobile Battle Royale 20% of the time. So I thought, PC version of CoD would be a better challenge with better graphics. Then I sought to build my own gaming PC to play CoD Modern Warfare and Warzone.
+I started playing Call of Duty Mobile on iOS during the lockdown period, as a way to kill time (and escape from the dark realities of self-employment). I found myself winning the COD Mobile Battle Royale 20% of the time. So I thought, PC version of COD would be a better challenge with better graphics. Then I sought to build my own gaming PC to play COD Modern Warfare and Warzone.
 
 Here are some pictures of the initial build:
 
@@ -43,15 +46,17 @@ In total, the build costed **RM3588 (865 USD)**, which is a very respectable pri
 
 ## Why you should play computer games
 
-As an aside, I think playing CoD games have been good for me. It helps me to develop perseverance. When I started playing CoD Warzone / Modern Warfare, I was getting killed left and right out of nowhere. After a while, I progressed from the bottom of the game leaderboard, up toward the middle, and sometimes at the top. I still suck badly, but it doesn't matter, I view it as continuous improvement.
+As an aside, I think playing COD games have been good for me. It helps me to develop perseverance. When I started playing COD Warzone / Modern Warfare, I was getting killed left and right out of nowhere. After a while, I progressed from the bottom of the game leaderboard, up toward the middle, and sometimes at the top. I still suck badly, but it doesn't matter, I view it as continuous improvement.
 
 I would like to carry this type of attitude towards life. Badminton also helps me develop this kind of tenacity. I have been doing rather badly in badminton games. But instead of quitting the game or feeling angry with myself, applying the same principle of trying and trying again has helped me to improve significantly in badminton recently.
 
 I hope to apply this to more tangible areas in life such as in career and church (dealing with difficult people who make you want to quit), and in building software worth paying for (KanRails, PageDash, etc.). If I improve enough, maybe I can help make Malaysia great again, from a software domination perspective!
 
-Additionally, in Call of Duty it is indeed heart-dropping to suddenly encounter an enemy out of nowhere while you are running around, or even just the expectation of that. Many things in life, including conflicts with people and stresses of additional burdens and demands, are to me rather heart-dropping and anxiety-ridden. FPS games like CoD train me to cope better in real-life anxiety situations.
+Additionally, in Call of Duty it is indeed heart-dropping to suddenly encounter an enemy out of nowhere while you are running around, or even just the expectation of that. Many things in life, including conflicts with people and stresses of additional burdens and demands, are to me rather heart-dropping and anxiety-ridden. FPS games like COD train me to cope better in real-life anxiety situations.
 
 And well, some Christians reading this will still disapprove of my playing computer games. My response is to mind your own business and mind your legalism!
+
+**Disclaimer**: I want to caution against games that just take over your life. Especially those MMORPG games where you walk around all day to farm. That's stupid. Even Fortnite seems to be like that. I like COD's definite start and end game boundaries. I only play at most 1-2 hours per day. Don't get addicted.
 
 <style>
   img {
