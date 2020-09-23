@@ -317,6 +317,10 @@ $article-title-color: #706E71;
   h2, h3, h4, h5, h6 {
     text-align: left;
   }
+
+  img:not(.hero) {
+    max-width: 600px;
+  }
 }
 
 /*

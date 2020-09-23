@@ -4,6 +4,8 @@ description: A logbook of everything I have tried and failed.
 tags: tech, software, business
 ---
 
+<img class="hero" src="/images/serial-loser.jpg" />
+
 I found myself self-employed again (my fourth time) after I resigned in April 2020, during the lockdown period. My salary got cut, and I just lost motivation to keep working in the airline tech industry, given that the whole industry was burning in flames. Ten days after I resigned, the company retrenched my entire team (what luck, missed out on minor severance). This time, in order to resign, the excuse that I gave myself was that I would just continuously churn out ebooks and courses (on GCP topics) and sell them. I wasn't particularly enjoying the job, and was looking for an excuse to walk for months.
 
 I actually managed to churn out [two ebooks and one course](https://store.joncloudgeek.com) during most of the lockdown period. I almost wanted to give up while doing the course. I tried making a similar Udemy course a year earlier, but I gave up halfway. The amount of effort is just amazing. For all that effort put into the course, the ROI was not even close to the ROI of the books (so far). Sales are trickling in, and the key to this business is to keep churning out content. But frankly, I have run out of steam and motivation for producing ebooks and courses.

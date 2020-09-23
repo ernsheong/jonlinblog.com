@@ -5,7 +5,6 @@ tags: pc, gaming, life
 ---
 
 <img class="hero" src="/images/gaming-pc/lined-up.jpg" />
-<center class="block mb-6"><small>On your marks...</small></center>
 
 ## Building my first PC
 
@@ -57,9 +56,3 @@ Additionally, in Call of Duty it is indeed heart-dropping to suddenly encounter 
 And well, some Christians reading this will still disapprove of my playing computer games. My response is to mind your own business and mind your legalism!
 
 **Disclaimer**: I want to caution against games that just take over your life. Especially those MMORPG games where you walk around all day to farm. That's stupid. Even Fortnite seems to be like that. I like COD's definite start and end game boundaries. I only play at most 1-2 hours per day. Don't get addicted.
-
-<style>
-  img {
-    max-width: 450px;
-  }
-</style>

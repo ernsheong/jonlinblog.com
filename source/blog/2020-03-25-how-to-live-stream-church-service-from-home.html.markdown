@@ -5,6 +5,8 @@ tags: church, tech, software
 image: /images/livestream/my-setup-ff9f3ed3.jpg
 ---
 
+<img class="hero" src="/images/livestream/my-setup.jpg" />
+
 With the Movement Control Order (partial-lockdown) in place in Malaysia and elsewhere, meeting up as a group in church to stream to Facebook Live straight from your Facebook mobile app is not really an option anymore (**you shouldn't, really, #stayhome**).
 
 Fortunately, consumer technology has matured by leaps and bounds and there are other viable solutions. While this guide tries hard to make it possible for anyone to achieve a livestream, in practice you probably need to be a bit comfortable tinkering with some hardware and software, so share this blog post with the technical people at your church.
@@ -195,5 +197,3 @@ Discussion questions: https://drive.google.com/open?id=1QqVSUCw1IVoSuTwXmrjhRbdC
 Hope you have fun whilst serving your church community! If your church didn't manage to pull together a stream, you can join mine online at [icatmk.com/live](https://icatmk.com/live/) in the meantime. If you need to reach out to me for help or to ask questions, feel free to shoot me an email at ernsheong@gmail.com.
 
 Cheers.
-
-<img src="/images/livestream/my-setup.jpg" />
