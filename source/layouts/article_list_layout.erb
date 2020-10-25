@@ -16,5 +16,11 @@
     </div>
   <% end %>
 
-  <div class="mt-12 text-center"><%= link_to "Blog Archive", "/blog" %></div>
+  <% if paginate %>
+    <% if next_page %>
+      <p class="my-6 text-right font-bold text-sm"><%= link_to 'Next page →', next_page %></p>
+    <% end %>
+  <% end %>
+
+  <div class="mt-12 text-center font-bold"><%= link_to "Blog Archive", "/blog" %></div>
 <% end %>
