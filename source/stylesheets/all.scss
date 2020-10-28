@@ -309,6 +309,10 @@ $article-title-color: #706E71;
     padding-top: $text-font-size;
     font-size: $text-font-size;
   }
+
+  img {
+    max-width: 600px;
+  }
 }
 
 .article-full {
