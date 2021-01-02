@@ -1,1 +1,3 @@
-bundle exec middleman build
+#!/bin/bash
+
+./middleman.sh build

@@ -1,0 +1,46 @@
+---
+title: Year 2020 In Review
+description: Personal highlights of 2020
+tags: life
+---
+
+<img src="/images/2020-in-review/meta.jpg" />
+
+Some personal highlights and lessons from 2020 (listed without much commentary and in no particular order):
+
+READMORE
+
+- Left a Data Engineer job in the travel industry
+- Wrote two ebooks on Google Cloud topics
+- Sales from one of the ebooks exceeded expectations in the longer run
+- Published a Udemy course
+- Gave a virtual talk in a Google Cloud online meetup
+- Started a GCP Digest newsletter but failed to follow through with it past the first 5 issues
+- Wrote a stock day-trading Python bot but realized it was better to just buy manually and hold longer
+- Somewhat burned by the market crashes but managed to preserve capital by end of 2020. I almost don't trade without a stop loss anymore
+- Another self-employment attempt failed due to deteriorating mental health
+- Went condo-hunting but ended up not purchasing
+- Embarked on a house rebuild, hired a architect. I am happy with the design, and hope to get municipal approvals
+- Continued working on KanRails and PageDash products, despite demotivation and lack of traction
+- Started working on new product ideas, looking to follow through with it in 2021
+- Figured out livestreaming for church services using OBS and [wrote about it](blog/how-to-live-stream-church-service-from-home/)
+- Performed email migration to Google Workspace for two Christian organizations, including my church
+- Rediscovered baby steps of walking with God again, and prayer
+- Overcame the mental distress of coping with the lockdown
+- Bought a foldable bike and cycled around neighborhood every weekday
+- Enjoyed some evening time playing PC games, watching TV shows and car reviews (but I have kinda stopped doing these)
+- Actually tried to interview with AWS but didn't make it past the 2nd round (I tried to like AWS, I really tried guys)
+- Segwayed into a new cloud solutions architecture job using aforementioned books, Google Cloud certifications, and self-employment experience using Google Cloud (unexpected)
+- Overcame the huge struggle of coping with a new job environment, as well as managing expectations
+- Somehow had to adjust to the reality of how people work on the job, and just accept it as the way it is
+- Somehow more accepting to the reality of holding on to a job and hopefully sticking to a solutions architecture career...
+- Somehow more accepting of my lot in life embarking into the 30s...
+- Edited a Christmas Eve service worship video sequence which I think was pretty nice
+- Proposed to my girlfriend of 4 years
+- Tried so hard to plan for a wedding amidst a pandemic. In the end had to settle for the simplest plan possible because it was impossible to plan anything larger
+
+I have no doubt that many have had it rougher than I did in 2020 (and also many did not make it past 2020). 2020 has really been a turning point in my life in more ways than one, so I am thankful for my 2020.
+
+I would like to also remember Brian who passed away this year amidst the lockdown and the pandemic. I wish we could have cared for you more.
+
+That's it! Short and sweet :) I had wanted to write a turn-by-turn gripping series of events. But nah.
