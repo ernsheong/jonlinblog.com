@@ -6,15 +6,15 @@ tags: life
 
 <img src="/images/dont-peak-too-early/peak.jpg"/>
 
-Sometimes now I wonder where has my energy gone. In the past years I've been dealing with a lack of motivation, confidence, or desire to do anything. Mild depression perhaps, but generally just a lack of energy and enthusiasm for life.
+I wonder where has my energy gone. In recent years I've been dealing with a lack of motivation, confidence, or desire to do anything. Mild depression perhaps, but generally just a lack of energy and enthusiasm for life.
 
 READMORE
 
 Here is my hypothesis. You really have only a few shots to throw everything in your being toward a cause or purpose. And the sad thing is, I've spent it all too soon in my younger years.
 
-The years that don't even matter – school. I spent too much time chasing academic results and accolates.
+The years that don't even matter – school. I spent too much time chasing academic results and accolades.
 
-Imagine, I went to National Junior College in Singapore (under ASEAN scholarship) and out-kiasued most of the Singaporeans there. I was Student Council Secretary, ran in track and field (long distance), Gavel Club (Toastmaster's for below 21), did science research at IMRE (somehow to my surprise won a Gold medal at Singapore Science and Engineer Fair), still had to study for A Levels, and spent most of my weekends at City Harvest Church in Singapore (because I was caught up by the false teachings of the church and was extremely gung-ho to serve).
+Imagine, I went to National Junior College in Singapore (under ASEAN scholarship) and out-kiasued most of the Singaporeans there. I was Student Council Secretary (highest office a non-Singaporean can hold), ran in track and field (long distance), Gavel Club (Toastmasters for below 21), did science research at IMRE (somehow to my surprise won a Gold medal at Singapore Science and Engineer Fair), still had to study for A Levels, and spent most of my weekends at City Harvest Church in Singapore (because I was caught up by the false teachings of the church and was extremely gung-ho to serve).
 
 I can tell you the reason why I can't stand Singapore anymore – I pushed myself to the ultimate limit like I have never pushed before and got seriously sick of the place and myself. End of the day it didn't even matter much.
 
