@@ -3,8 +3,8 @@
 
   <% page_articles.each_with_index do |article, idx| %>
     <div class="article-preview <%= idx == 0 ? '' : 'mt-8' %> pb-8 border-b">
-      <h1 class="title hover:underline"><%= link_to article.title, article %></h1>
-      <div class="date"><%= article.date.strftime('%b %e, %Y') %></div>
+      <h1 class="title hover:underline leading-1"><%= link_to article.title, article %></h1>
+      <div class="date mt-3"><%= article.date.strftime('%b %e, %Y') %></div>
 
       <div class="text">
         <%= article.summary %>
