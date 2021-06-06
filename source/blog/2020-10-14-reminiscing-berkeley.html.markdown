@@ -4,7 +4,9 @@ description: My days at Berkeley.
 tags: life, berkeley, university
 ---
 
-<img src="/images/berkeley-glade.jpg" />
+<a href="/blog/reminiscing-berkeley">
+  <img src="/images/berkeley-glade.jpg" />
+</a>
 <center class="block mb-6"><small>Courtesy of Wikipedia.</small></center>
 
 This month, it was announced that UC Berkeley had gained two more Nobel laureates. In conjunction, I thought it would be a good time to blog about my time at Berkeley. The standard Malaysian disclaimer is that Berkeley is not the same as Berklee College of Music, the music school in the US east coast. Berkeley is in the US west coast, and is considered to be the best public university in the US, famous for its Electrical Engineering programs.

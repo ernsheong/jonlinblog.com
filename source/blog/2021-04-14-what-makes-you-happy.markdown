@@ -4,7 +4,9 @@ description: What do you want to do?
 tags: life, work, software
 ---
 
-<img src="/images/what-makes-you-happy.jpeg"/>
+<a href="/blog/what-makes-you-happy">
+  <img src="/images/what-makes-you-happy.jpeg"/>
+</a>
 
 A question that I occasionally get with regard to work is, "What do you want to do?", which can be translated as "What makes you happy (at work)?"
 

@@ -4,7 +4,9 @@ description: Why you should chill early in life.
 tags: life
 ---
 
-<img src="/images/dont-peak-too-early/peak.jpg"/>
+<a href="/blog/dont-peak-too-early">
+  <img src="/images/dont-peak-too-early/peak.jpg"/>
+</a>
 
 I wonder where has my energy gone. In recent years I've been dealing with a lack of motivation, confidence, or desire to do anything. Mild depression perhaps, but generally just a lack of energy and enthusiasm for life.
 

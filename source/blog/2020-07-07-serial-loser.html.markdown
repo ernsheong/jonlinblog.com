@@ -4,7 +4,9 @@ description: A logbook of everything I have tried and failed.
 tags: tech, software, business
 ---
 
-<img class="hero" src="/images/serial-loser.jpg" />
+<a href="/blog/serial-loser">
+  <img class="hero" src="/images/serial-loser.jpg" />
+</a>
 
 I found myself self-employed again (my fourth time) after I resigned in April 2020, during the lockdown period. My salary got cut, and I just lost motivation to keep working in the airline tech industry, given that the whole industry was burning in flames. Ten days after I resigned, the company retrenched my entire team (what luck, missed out on minor severance). This time, in order to resign, the excuse that I gave myself was that I would just continuously churn out ebooks and courses (on GCP topics) and sell them. I wasn't particularly enjoying the job, and was looking for an excuse to walk for months.
 

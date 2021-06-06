@@ -4,7 +4,9 @@ description: Personal highlights of 2020
 tags: life
 ---
 
-<img src="/images/2020-in-review/meta.jpg" />
+<a href="/blog/year-2020-in-review">
+  <img src="/images/2020-in-review/meta.jpg" />
+</a>
 
 Some personal highlights and lessons from 2020 (listed without much commentary and in no particular order):
 

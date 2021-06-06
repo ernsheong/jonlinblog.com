@@ -5,7 +5,9 @@ tags: church, tech, software
 image: /images/livestream/my-setup-ff9f3ed3.jpg
 ---
 
-<img class="hero" src="/images/livestream/my-setup.jpg" />
+<a href="/blog/how-to-live-stream-church-service-from-home">
+   <img class="hero" src="/images/livestream/my-setup.jpg" />
+</a>
 
 With the Movement Control Order (partial-lockdown) in place in Malaysia and elsewhere, meeting up as a group in church to stream to Facebook Live straight from your Facebook mobile app is not really an option anymore (**you shouldn't, really, #stayhome**).
 

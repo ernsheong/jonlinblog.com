@@ -4,7 +4,9 @@ description: And how it's going.
 tags: life, high school, leadership
 ---
 
-<img src="/images/how-it-started/how-malaysias-going.png" style="border: 1px solid lightgray;"/>
+<a href="/blog/how-it-started">
+  <img src="/images/how-it-started/how-malaysias-going.png" style="border: 1px solid lightgray;"/>
+</a>
 <center class="block mb-6"><small>Admittedly, Malaysia's still doing great compared to some Western countries. Boo. (Left: "No need to quarantine." Right: "Lockdown in the capital.")</small></center>
 
 There's a <a target="_blank" href="https://twitter.com/search?q=how%20it%27s%20going&src=typed_query">How it started / How it's going</a> trend going on in Twitter, usually bragging about how well things are currently going, or how they are not.

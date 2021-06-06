@@ -4,7 +4,9 @@ description: I finally built my first gaming PC!
 tags: pc, gaming, life
 ---
 
-<img class="hero" src="/images/gaming-pc/lined-up.jpg" />
+<a href="/blog/first-gaming-pc">
+  <img class="hero" src="/images/gaming-pc/lined-up.jpg" />
+</a>
 
 ## Building my first PC
 
