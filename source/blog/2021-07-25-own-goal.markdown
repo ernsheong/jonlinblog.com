@@ -2,6 +2,7 @@
 title: Own Goal
 description: How to deal with own goals in life?
 tags: life
+image: /images/own-goal-71c05526.jpg
 ---
 
 <a href="/blog/own-goal">
