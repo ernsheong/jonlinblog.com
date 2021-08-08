@@ -23,11 +23,13 @@ On the sacrifice side, there is usually the attempt to make you feel guilty or u
 
 Again on the sacrifice side, there are usually programs or events that you are encouraged to go. And if you don't go then perhaps there is something wrong with your Christian walk? Just because I am a slacker Christian and don't want to go to Wed morning 7am Ironman bible study makes me less worthy in your eyes as a child of God? So what if I manage to attend these Ironman sessions, does it make me proud to be part of an elite group that manages to get theit s*** together to wake up early for bible study week in and week out? Or will it actually change my heart?
 
+As a guy, sacrifice is also a common reason why relationships don't work out. Christian girls have some unrealistic standard of sacrifice, and if you don't sacrifice enough spiritually as a guy, the girl just self-righteously dismisses you as being unworthy for relationship. Do you still wonder why relationships and marriage rarely happen in the church nowadays?
+
 I am looking for mercy, but none was being shown to me by the individuals from whom I expected it the most. Which is partly why I had to leave my church.
 
 I am looking to hear a message that melts my hard heart, so that I can love Jesus more and do what he wants me to do. Driving at this through emphasis on sacrifice isn't going to work. Making me feel bad for not doing or achieving some spiritual thing isn't going to change my heart.
 
-And that is why I grieve for the state of Christianity in Malaysia. 80% of Christians and churches out there are laser-focused on sacrifice. Do this. Do that. Support this. Support that. We have lost our sight of what is more important, i.e. mercy.
+And this is why I grieve for the state of Christianity in Malaysia. 80% of Christians and churches out there are laser-focused on sacrifice. Do this. Do that. Support this. Support that. We have lost our sight of what is more important, i.e. mercy. We have become far too self-righteous like the Pharisees.
 
 Certainly I am not entirely merciful myself. I want people to pay, to sacrifice for what they did to me. I even wrote this blog post with some people in mind. But the first step in this long journey toward mercy is to desire mercy and receive mercy from Mercy himself.
 
