@@ -2,7 +2,7 @@
 title: Mercy, not Sacrifice
 description: "I desire mercy, not sacrifice."
 tags: life, christianity
-image: /images/mercy-not-sacrifice-8c5996ee.jpg
+image: /images/mercy-not-sacrifice-de518f65.jpg
 ---
 
 <a href="/blog/mercy-not-sacrifice">
