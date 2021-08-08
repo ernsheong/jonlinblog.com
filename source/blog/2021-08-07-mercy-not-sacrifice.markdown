@@ -1,8 +1,13 @@
 ---
-title: Mercy vs Sacrifice
-description: I desire mercy, not sacrifice.
+title: Mercy, not Sacrifice
+description: "I desire mercy, not sacrifice."
 tags: life, christianity
+image: /images/mercy-not-sacrifice-8c5996ee.jpg
 ---
+
+<a href="/blog/mercy-not-sacrifice">
+  <img src="/images/mercy-not-sacrifice.jpg"/>
+</a>
 
 <blockquote>But go and learn what this means: 'I desire mercy, not sacrifice.' For I have not come to call the righteous, but sinners." – Matthew 9:13 (NIV)</blockquote>
 
@@ -14,7 +19,7 @@ I am generally able to tell if a sermon is emphasizing the gospel. It was hard t
 
 I also notice that mercy vs sacrifice does explain the two huge camps within Christianity, both in Christians and in churches. A Christian or church usually emphasizes one or the other, and the contrast is stark.
 
-On the sacrifice side, there is usually the attempt to make you feel guilty or unworthy: "Given what Christ has already done for you, shouldn't you be living this better way as a Christian compared to what you are doing now?". "Look at you T20 and M40 people with so much. You should be ashamed of yourselves for not sacrificing more." This usually comes from the pulpit, but it could also come from the vibe of fellow church members. I'm not taking about grave sin here, it's just a general tone or mood if you don't live up to some certain expectation.
+On the sacrifice side, there is usually the attempt to make you feel guilty or unworthy: "Given what Christ has already done for you, shouldn't you be living this better way as a Christian compared to what you are doing now?". "Look at you T20 and M40 people with so much. You should be ashamed of yourselves for not sacrificing more." This usually comes from the pulpit, but it could also come from the vibe of fellow church members. I'm not taking about grave sin here, it's just a general tone or mood if you don't live up to some spiritual expectation.
 
 Again on the sacrifice side, there are usually programs or events that you are encouraged to go. And if you don't go then perhaps there is something wrong with your Christian walk? Just because I am a slacker Christian and don't want to go to Wed morning 7am Ironman bible study makes me less worthy in your eyes as a child of God? So what if I manage to attend these Ironman sessions, does it make me proud to be part of an elite group that manages to get theit s*** together to wake up early for bible study week in and week out? Or will it actually change my heart?
 
@@ -24,6 +29,6 @@ I am looking to hear a message that melts my hard heart, so that I can love Jesu
 
 And that is why I grieve for the state of Christianity in Malaysia. 80% of Christians and churches out there are laser-focused on sacrifice. Do this. Do that. Support this. Support that. We have lost our sight of what is more important, i.e. mercy.
 
-Certainly I am not entirely merciful myself. I want people to pay, to sacrifice for what they did to me. But the first step in this long journey toward mercy is to receive mercy and hunger for mercy.
+Certainly I am not entirely merciful myself. I want people to pay, to sacrifice for what they did to me. I even wrote this blog post with some people in mind. But the first step in this long journey toward mercy is to desire mercy and receive mercy from Mercy himself.
 
-I hope that you will also desire mercy, not sacrifice.
+I hope that you will also desire mercy, not sacrifice. Because that is what our Lord desires.
