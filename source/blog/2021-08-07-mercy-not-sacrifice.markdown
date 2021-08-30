@@ -29,7 +29,7 @@ I am looking for mercy, but none was being shown to me by the individuals from w
 
 I am looking to hear a message that melts my hard heart, so that I can love Jesus more and do what he wants me to do. Driving at this through emphasis on sacrifice isn't going to work. Making me feel bad for not doing or achieving some spiritual thing isn't going to change my heart.
 
-And this is why I grieve for the state of Christianity in Malaysia. 80% of Christians and churches out there are laser-focused on sacrifice. Do this. Do that. Support this. Support that. We have lost our sight of what is more important, i.e. mercy. We have become far too self-righteous like the Pharisees.
+And this is why I grieve for the state of Christianity in Malaysia. 80% of Christians and churches out there are laser-focused on sacrifice. Do this. Do that. Follow this. Follow that. Support this. Support that. We have lost our sight of what is more important, i.e. mercy. We have become far too self-righteous like the Pharisees.
 
 Certainly I am not entirely merciful myself. I want people to pay, to sacrifice for what they did to me. I even wrote this blog post with some people in mind. But the first step in this long journey toward mercy is to desire mercy and receive mercy from Mercy himself.
 
