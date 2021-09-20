@@ -47,7 +47,7 @@ Another fun class I took was Gospel Chorus. You basically rehearse with a like-m
 
 I had an opportunity to be an EE40 teaching assistant the summer before my senior year (because I got an A in EE40). I actually did the job and got paid a lot of money for it. Somehow I managed to fake it till I made it in that TA job. Felt like an impostor. Thankfully no one complained about me being an impostor.
 
-Berkeley has the effect of humbling you, especially if you came out top in your high school. It was my reckoning and positioning correction in life. I ended my time at Berkeley with a CGPA of 3.65. Alas, not a 3.8 but I didn't really care for some reason. I have ZERO regrets about not getting a higher CGPA in Berkeley, with my policy of doing hard things. I was there to challenge myself, and I did.
+Berkeley has the effect of humbling you, especially if you came out top in your high school. It was my reckoning and positioning correction in life. I ended my time at Berkeley with a respectable 3.75 CGPA. Alas, not a 3.8 but I didn't really care for some reason. I have ZERO regrets about not getting a higher CGPA in Berkeley, with my policy of doing hard things. I was there to challenge myself, and I did.
 
 All this is very academic. Another large part of my Berkeley life was my involvement in Gracepoint Church. I shall write about that in another post. I can count the number of times I headed to SF for fun with one hand or two hands. Most of my Berkeley life was academic, and church (for better or worse).
 
