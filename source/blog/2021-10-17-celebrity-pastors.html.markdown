@@ -2,7 +2,12 @@
 title: Celebrity Pastors
 description: "Avoid churches that revolve around celebrity pastors."
 tags: life, christianity
+image: /images/celebrity-pastor-3832c202.jpg
 ---
+
+<a href="/blog/celebrity-pastors">
+  <img src="/images/celebrity-pastor.jpg"/>
+</a>
 
 In the aftermath of the [fall of Mars Hill church](https://www.christianitytoday.com/ct/podcasts/rise-and-fall-of-mars-hill/), it is a good time to explore the rise and fall of celebrity pastors, and what it actually means for the lay Christian. Because this is also happening everywhere in Malaysia.
 
