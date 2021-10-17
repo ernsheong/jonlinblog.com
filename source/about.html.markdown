@@ -7,13 +7,13 @@ title: About | Jon ES Lin
 <!--- Profile pic -->
 <img src="/images/profile-pic.jpg" alt="Hello, this is a picture of me!" class="profile-image"/>
 
-Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where I blog about life, technology, and maybe Christianity.
-I live in Petaling Jaya, Malaysia.
+Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where I blog about life, technology, and maybe Christianity. I live in Petaling Jaya, Malaysia.
 
-I am a Cloud Architect at [some enterprise — undisclosed for now]. Formerly self-employed (multiple times) working on building products for myself and the world at [Belian Tech](https://beliantech.com). Check out [Platformattic](https://platformattic.com) and [PageDash](https://www.pagedash.com), as well as some of my books sold on [Gumroad](https://gumroad.com/joncloudgeek). My technical blog can be found at [JonCloudGeek](https://joncloudgeek.com).
+I am a Solutions Architect at [Arvato Systems](https://www.arvato-systems.com/). My technical blog can be found at [JonCloudGeek](https://joncloudgeek.com).
 
 Previous working experiences:
 
+- Cloud Architect at [Tune Protect](https://www.tuneprotect.com)
 - Data Engineer at [GoQuo](https://goquo.com)
 - Software Engineer at [CoinGecko](https://www.coingecko.com)
 - Front-end Software Engineer at [BAE Systems KL](http://www.baesystems.com), where I worked on enterprise applications.
