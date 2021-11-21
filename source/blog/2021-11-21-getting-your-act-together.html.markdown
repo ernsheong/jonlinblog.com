@@ -82,4 +82,4 @@ In the book, Russ gives an example of a client who wishes to find a significant 
 
 In summary, ACT calls for a life of living according to values, instead of according to stereotypical and superficial measurements of success, e.g. wealth, position, marital status.
 
-I hope this post helps someone. You can try to borrow this book from the Malaysian [National Library](https://opac.pnm.gov.my/search/query?term_1=happiness+trap&theme=PNM2).
+I hope this post helps someone. You can try to borrow this book from the Malaysian [National Library](https://opac.pnm.gov.my/search/query?term_1=happiness+trap&theme=PNM2), or buy it from [Book Depo](https://www.bookdepository.com/Happiness-Trap-Russ-Harris/9781845298258).
