@@ -130,7 +130,7 @@ body {
   }
 
   h2 {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     margin-bottom: 0.5rem;
   }
 
@@ -470,7 +470,7 @@ $article-title-color: #706E71;
 .markdown h2 {
   line-height: 1.25;
   border-bottom-width: 1px;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-weight: 600;
   margin-bottom: 1rem;
   margin-top: 1.5rem;
@@ -479,7 +479,7 @@ $article-title-color: #706E71;
 
 .markdown h3 {
   line-height: 1.375;
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   font-weight: 600;
   margin-bottom: 1rem;
   margin-top: 1.5rem;
@@ -487,7 +487,7 @@ $article-title-color: #706E71;
 
 .markdown h4 {
   line-height: 1;
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-weight: 600;
   margin-bottom: 1rem;
   margin-top: 1.5rem;
@@ -547,13 +547,15 @@ $article-title-color: #706E71;
 }
 
 .markdown ul {
-  font-size: 1.1rem;
+  // Match body
+  font-size: 18px;
   padding-left: 2rem;
   list-style-type: disc;
 }
 
 .markdown ol {
-  font-size: 1.1rem;
+  // Match body
+  font-size: 18px;
   padding-left: 2rem;
   list-style-type: decimal;
 }
