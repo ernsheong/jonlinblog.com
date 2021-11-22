@@ -59,6 +59,7 @@ In the book Russ suggests a few practical methods for _**cognitive defusion**_:
 - **I'm having the thought that...** – Instead of thinking _"I am worthless"_, change it to _"I'm having the thought that I am worthless"_.
 - **Thanking your mind** – When the negative, sad, or distressing thought appears, say _"Thanks, mind!"_ and move on with life.
 - **Silly voices** – The thought that _"I am stupid"_ quickly loses power when you say it out in a high-pitched Mickey Mouse voice.
+- **Name the story** – Once you have processed thoughts well enough, you can name them. For example, name _"I'm a loser"_ thoughts as the "loser story". If you have processed this "loser story" well enough, you don't have to go through the entire process again, just name it e.g. "Oh, it's the loser story".
 
 Eventually over time, with practice, you may not need such tactics to defuse thoughts; your mind should automatically acknowledge them and move on.
 
