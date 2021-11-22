@@ -69,8 +69,8 @@ $uk-large-max-width: 1199px;
  * Global
  */
 
-$text-font-size: 18px;
-$text-font-size-mobile: 16px;
+$text-font-size: 1.1rem;
+$text-font-size-mobile: 1rem;
 
 $accent-color: #e09d45;
 $background-color: #FFFFFF;
@@ -547,15 +547,11 @@ $article-title-color: #706E71;
 }
 
 .markdown ul {
-  // Match body
-  font-size: 18px;
   padding-left: 2rem;
   list-style-type: disc;
 }
 
 .markdown ol {
-  // Match body
-  font-size: 18px;
   padding-left: 2rem;
   list-style-type: decimal;
 }
