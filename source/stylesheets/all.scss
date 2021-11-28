@@ -304,14 +304,24 @@ $article-title-color: #706E71;
       color: $article-title-color;
     }
   }
-
   .continue {
     padding-top: $text-font-size;
     font-size: $text-font-size;
   }
-
   img {
     max-width: 600px;
+  }
+  blockquote {
+    font-size: 1.125rem;
+    border-left-width: 4px;
+    border-color: #e2e8f0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: #718096;
+    margin-bottom: 1rem;
+  }
+  h2, h3, h4, h5, h6 {
+    text-align: left;
   }
 }
 

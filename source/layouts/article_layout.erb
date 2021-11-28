@@ -9,7 +9,7 @@
     </div>
 
     </article>
-    <div class="tags">
+    <div class="tags mt-8">
       <% current_article.tags.each do |tag| %>
         <button class="p-2 border text-gray-400 hover:bg-gray-200 text-sm" type="button"><%= link_to tag, "/tags/#{tag.downcase}" %></button>
       <% end %>
