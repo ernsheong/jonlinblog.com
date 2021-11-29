@@ -320,6 +320,10 @@ $article-title-color: #706E71;
     color: #718096;
     margin-bottom: 1rem;
   }
+  pre code {
+    display: block;
+    overflow-x: auto;
+  }
   h2, h3, h4, h5, h6 {
     text-align: left;
   }
@@ -552,7 +556,7 @@ $article-title-color: #706E71;
   display: block;
   background-color: transparent;
   padding: 0;
-  overflow: visible;
+  overflow-x: auto;
   border-radius: 0;
 }
 
