@@ -9,7 +9,7 @@ title: About | Jon ES Lin
 
 Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where I blog about life, technology, and maybe Christianity. I live in Petaling Jaya, Malaysia.
 
-I am a Solutions Architect. My technical blog can be found at [JonCloudGeek](https://joncloudgeek.com).
+I am a Cloud Solutions Architect. My technical blog can be found at [JonCloudGeek](https://joncloudgeek.com).
 
 Previous working experiences:
 
