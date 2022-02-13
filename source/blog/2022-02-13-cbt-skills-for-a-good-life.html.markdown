@@ -65,15 +65,15 @@ For an exercise, let's take the belief (B), "I must not be bored when I'm workin
 
 CBT (according to this book, at least) dictates that we examine the belief with the following three checks:
 
-1. **Reality Check**
-2. **Common Sense**
+1. **Reality check**
+2. **Common sense**
 3. **Helpfulness**
 
 So let's have a CBT session:
 
-**Reality Check** The reality is that every job will eventually become repetitive and some of the same. And there will be some jobs that are not so demanding and do not reach 100% utilization. In the case of consulting companies, there would also be bench time.
+**Reality check** The reality is that every job will eventually become repetitive and some of the same. And there will be some jobs that are not so demanding and do not reach 100% utilization. In the case of consulting companies, there would also be bench time.
 
-**Common Sense** tells me that doing the same things again and again to produce different results is the definition of insanity. Jumping from job to job in order to "be less bored" will end up with the same result, as each job will have its own element of boredom.
+**Common sense** tells me that doing the same things again and again to produce different results is the definition of insanity. Jumping from job to job in order to "be less bored" will end up with the same result, as each job will have its own element of boredom.
 
 **Helpfulness** It is not very helpful to beat myself down with the thought that "I must not be bored when I'm working. I can't stand boredom", only to end up wasting time hopping from job to job, doing and redoing training, wasting HR time and resources, and doing myself a disfavor with recruiters. It is more helpful to offer my help to colleagues that need help, take the initiative to start a self-driven project, offer my services to another part of the company, or inform my line manager of my desire to be more useful.
 
@@ -83,9 +83,9 @@ Often it is not the unhealthy belief that is debilitating, but the derivative be
 
 As an example, let's address the **awfulising** derivative belief, e.g. "Being bored at work is very very bad, 100% end-of-the-world bad".
 
-**Reality Check** The reality is that the company still sees me as valuable because they are paying me a salary each month. The fact is that I am fortunate to be able to have a job as there are many who do not.
+**Reality check** The reality is that the company still sees me as valuable because they are paying me a salary each month. The fact is that I am fortunate to be able to have a job as there are many who do not.
 
-**Common Sense** tells me that being bored at work is not the worst thing in the world. There are many worser things than having a boring job. In fact, having a job is a privilege.
+**Common sense** tells me that being bored at work is not the worst thing in the world. There are many worser things than having a boring job. In fact, having a job is a privilege.
 
 **Helpfulness** The debilitating effect of thinking that a boring job is 100% end-of-the-world bad is not helpful to me in order to perform at work. It is numbing and unhelpful. It causes me to look for another job, which when repeated makes the situation even worse.
 
@@ -93,6 +93,6 @@ And we can repeat the above as such for **low frustration tolerance** (e.g. "I c
 
 ## Summary
 
-CBT is an important skill to have in your toolbox in order to combat unhealthy and negative thinking. Yes, a dose of realistic thinking is necessary in life, but often the mind automatically short-circuits to the most damning and unhelpful of beliefs without us realizing it. The brain is somehow very susceptible to unhealthy beliefs, and by itself does not actually perform reality checks on the beliefs. We thus need to help our brain out.
+CBT is an important skill to have in your toolbox in order to combat unhealthy beliefs. Yes, a dose of realistic thinking is necessary in life, but often the mind automatically short-circuits to the most damning and unhelpful of beliefs without us realizing it. The brain is somehow very susceptible to unhealthy beliefs, and by itself does not actively perform reality checks on these beliefs. We thus need to help our brain out.
 
-Once you have gained an awareness of the thoughts or beliefs that are underlying your feelings or symptoms (not easy and may take time), you may then be able to apply CBT on the belief for a better quality of life. You ought to start today, don't wait for anxiety and depression to debilitate you and your loved ones.
+Once you have gained an awareness of the beliefs underlying your thoughts, feelings, or symptoms (not easy and may take time), you may then be able to apply CBT on the belief for a better quality of life. You ought to start today, don't wait for anxiety and depression to debilitate you and your loved ones.
