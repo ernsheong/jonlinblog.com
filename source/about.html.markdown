@@ -15,7 +15,7 @@ Previous working experiences:
 
 - Cloud Architect at [Tune Protect](https://www.tuneprotect.com)
 - Data Engineer at [GoQuo](https://goquo.com)
-- Software Engineer at [CoinGecko](https://www.coingecko.com)
+- Software Engineer No. 1 at [CoinGecko](https://www.coingecko.com)
 - Front-end Software Engineer at [BAE Systems KL](http://www.baesystems.com), where I worked on enterprise applications.
 - Software Consultant at [Belian Tech](http://beliantech.com), where I worked on Ruby on Rails apps.
 - Mobile Software Engineer at [Snappymob](https://www.snappymob.com). I helped churn out the Android and BlackBerry apps for The Malaysian Insider,
