@@ -9,18 +9,7 @@ title: About | Jon ES Lin
 
 Welcome! My name is Jonathan Ern Sheong Lin, and this is my personal site where I blog about life, technology, and maybe Christianity. I live in Petaling Jaya, Malaysia.
 
-I am a Cloud Solutions Architect at [Atos](https://atos.net). My technical blog can be found at [JonCloudGeek](https://joncloudgeek.com).
-
-Previous working experiences:
-
-- Cloud Architect at [Tune Protect](https://www.tuneprotect.com)
-- Data Engineer at [GoQuo](https://goquo.com)
-- Software Engineer No. 1 at [CoinGecko](https://www.coingecko.com)
-- Front-end Software Engineer at [BAE Systems KL](http://www.baesystems.com), where I worked on enterprise applications.
-- Software Consultant at [Belian Tech](http://beliantech.com), where I worked on Ruby on Rails apps.
-- Mobile Software Engineer at [Snappymob](https://www.snappymob.com). I helped churn out the Android and BlackBerry apps for The Malaysian Insider,
-as well as contributed to the development of Saved for iOS and Android, a budgeting and expenses app.
-- Software Engineer No. 1 at [Ocision](http://www.ocision.com), now a subsidiary of Star Media Group. Our products include [Propwall](http://www.propwall.com), [iBilik](http://www.ibilik.com), and [Carsifu](http://www.carsifu.my).
+Professionally, I am a Solutions Architect. My technical blog can be found at [JonCloudGeek](https://joncloudgeek.com).
 
 During my downtime, I enjoy jogging, swimming, badminton, playing the guitar, hanging out with friends, writing, and reading.
 
