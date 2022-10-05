@@ -2,7 +2,7 @@
 title: The Blues
 description: Welcome to the blues.
 tags: blues
-image: /images/build/images/the-blues-20f669ea.jpg
+image: /images/the-blues-20f669ea.jpg
 ---
 
 <a href="/blog/the-blues">
