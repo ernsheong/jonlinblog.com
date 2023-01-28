@@ -17,4 +17,4 @@ I am a Christian, saved by a God who unfailingly pursues me with his love and fo
 He gives me hope for a future while I struggle with the present.
 
 I can be contacted at the concatenation of "ernsheong", the AT character, and "gmail.com".
-You can also find me on [Github](https://github.com/ernsheong), [LinkedIn](https://my.linkedin.com/in/jonlinernsheong) and [Twitter](https://twitter.com/ernsheong).
+You can also find me on [Github](https://github.com/ernsheong) and [LinkedIn](https://my.linkedin.com/in/jonlinernsheong).
