@@ -11,8 +11,9 @@
 </div>
 
 <nav class="navbar">
-   <div class="links flex items-center justify-center">
-     <%= link_to "About", "/about", class: "#{current_page.path =~ /about/ ? "selected" : nil} px-4 py-2 text-xl font-bold" %>
-     <%= link_to "Microblog", "/microblog", class: "#{current_page.path =~ /microblog/ ? "selected" : nil} px-4 py-2 text-xl font-bold" %>
+   <div class="links flex items-center justify-center text-lg">
+     <%= link_to "About", "/about", class: "#{current_page.path =~ /about/ ? "selected" : nil} px-4 py-2 font-bold" %>
+     <%= link_to "Portfolio", "/portfolio", class: "#{current_page.path =~ /portfolio/ ? "selected" : nil} px-4 py-2 font-bold" %>
+     <%= link_to "Microblog", "/microblog", class: "#{current_page.path =~ /microblog/ ? "selected" : nil} px-4 py-2 font-bold" %>
    </div>
 </nav>
